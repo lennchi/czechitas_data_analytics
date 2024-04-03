@@ -23,5 +23,5 @@ for char in text:
 sorted_dict = dict(sorted(char_dict.items()))
 
 # Write the sorted dict to a new .json file
-with open("ukol1_output.json", "w", encoding="utf-8") as f:
+with open("homework/ukol1_output.json", "w", encoding="utf-8") as f:
     json.dump(sorted_dict, f, indent=4)
