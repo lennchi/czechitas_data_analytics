@@ -10,35 +10,8 @@ df = pd.read_csv(
     keep_default_na=False,
 )
 
-# # Fetch column headers as a list so I don't have to copy/type them out one by one later :D
-# headers = df.columns.tolist()
-# print(headers)
-
-# Drop columns we don't need
-df = df.drop(
-    [
-        "TCONST",
-        "TITLETYPE",
-        "ORIGINALTITLE",
-        "ISADULT",
-        "ENDYEAR",
-        "RUNTIMEMINUTES",
-        "AVERAGERATING",
-        "NUMVOTES",
-        "TITLETYPE_NEW",
-        "SHOW_ID",
-        "TYPE",
-        "TITLE",
-        "COUNTRY",
-        "DATE_ADDED",
-        "RELEASE_YEAR",
-        "RATING",
-        "DURATION",
-        "LISTED_IN",
-        "DESCRIPTION",
-    ],
-    axis=1,
-)
+# Only leave the columns we need in the df
+df = df[["PRIMARYTITLE", "DIRECTOR", "CAST", "GENRES", "STARTYEAR"]].copy()
 
 # Rename headers as per assignment
 new_headers = {
@@ -72,5 +45,5 @@ movies = [
 ]
 
 # Write to a new .json file
-with open("homework/movies.json", "w", encoding="utf-8") as f:
+with open("PY_homework/movies.json", "w", encoding="utf-8") as f:
     json.dump(movies, f, indent=4)
