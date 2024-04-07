@@ -17,8 +17,11 @@
             " Michael Moriarty",
             " Penelope Ann Miller"
         ],
-        "genres": "Drama,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Waterboy",
@@ -37,8 +40,11 @@
             " Jonathan Loughran",
             " Al Whiting"
         ],
-        "genres": "Comedy,Sport",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Sport"
+        ],
+        "decade": 1990
     },
     {
         "title": "Power Rangers Turbo",
@@ -60,8 +66,12 @@
             " Selwyn Ward",
             " Donene Kistler"
         ],
-        "genres": "Action,Adventure,Family",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Family"
+        ],
+        "decade": 1990
     },
     {
         "title": "Kurt & Courtney",
@@ -72,8 +82,12 @@
             "Kurt Cobain",
             " Courtney Love"
         ],
-        "genres": "Crime,Documentary,Music",
-        "decade": "1990"
+        "genres": [
+            "Crime",
+            "Documentary",
+            "Music"
+        ],
+        "decade": 1990
     },
     {
         "title": "Wet Hot American Summer",
@@ -98,8 +112,11 @@
             " Gideon Jacobs",
             " Elizabeth Banks"
         ],
-        "genres": "Comedy,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Ryan White Story",
@@ -116,8 +133,11 @@
             " Sarah Jessica Parker",
             " Mitchell Ryan"
         ],
-        "genres": "Biography,Drama",
-        "decade": "1980"
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "Rajnigandha",
@@ -132,8 +152,11 @@
             " Veena Gaud",
             " Manju Maini"
         ],
-        "genres": "Drama,Romance",
-        "decade": "1970"
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1970
     },
     {
         "title": "No Entry",
@@ -150,8 +173,12 @@
             " Celina Jaitly",
             " Boman Irani"
         ],
-        "genres": "Comedy,Drama,Musical",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Musical"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Twins Effect II",
@@ -173,8 +200,12 @@
             " Edison Chen",
             " Jackie Chan"
         ],
-        "genres": "Action,Adventure,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "On the Wrong Track",
@@ -190,8 +221,11 @@
             " Hua Yueh",
             " Wong Kung-miu"
         ],
-        "genres": "Action,Drama",
-        "decade": "1980"
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "Wazir",
@@ -206,8 +240,12 @@
             " Neil Nitin Mukesh",
             " John Abraham"
         ],
-        "genres": "Action,Crime,Drama",
-        "decade": "2010"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2010
     },
     {
         "title": "Kingpin",
@@ -225,8 +263,11 @@
             " Richard Tyson",
             " Lin Shaye"
         ],
-        "genres": "Comedy,Sport",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Sport"
+        ],
+        "decade": 1990
     },
     {
         "title": "John Carter",
@@ -240,7 +281,7 @@
             " Willem Dafoe",
             " Thomas Haden Church",
             " Mark Strong",
-            " Ciar\u00e1n Hinds",
+            " Ciarán Hinds",
             " Dominic West",
             " James Purefoy",
             " Bryan Cranston",
@@ -273,8 +314,12 @@
             " Rupert Frazer",
             " Edmund Kente"
         ],
-        "genres": "Action,Adventure,Sci-Fi",
-        "decade": "2010"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "decade": 2010
     },
     {
         "title": "Nang Nak",
@@ -285,8 +330,12 @@
             "Inthira Charoenpura",
             " Winai Kraibutr"
         ],
-        "genres": "Horror,Romance,War",
-        "decade": "1990"
+        "genres": [
+            "Horror",
+            "Romance",
+            "War"
+        ],
+        "decade": 1990
     },
     {
         "title": "National Treasure",
@@ -302,8 +351,12 @@
             " Harvey Keitel",
             " Christopher Plummer"
         ],
-        "genres": "Action,Adventure,Mystery",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Mystery"
+        ],
+        "decade": 2000
     },
     {
         "title": "Ram Teri Ganga Maili",
@@ -320,8 +373,12 @@
             " Sushma Seth",
             " Trilok Kapoor"
         ],
-        "genres": "Drama,Musical,Romance",
-        "decade": "1980"
+        "genres": [
+            "Drama",
+            "Musical",
+            "Romance"
+        ],
+        "decade": 1980
     },
     {
         "title": "Ferris Bueller's Day Off",
@@ -342,8 +399,10 @@
             " Ben Stein",
             " Del Close"
         ],
-        "genres": "Comedy",
-        "decade": "1980"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 1980
     },
     {
         "title": "Lal Patthar",
@@ -362,8 +421,10 @@
             " Sujata Bakshi",
             " Meena T."
         ],
-        "genres": "Drama",
-        "decade": "1970"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1970
     },
     {
         "title": "Monty Python's Life of Brian",
@@ -380,8 +441,10 @@
             " Terence Bayler",
             " Carol Cleveland"
         ],
-        "genres": "Comedy",
-        "decade": "1970"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 1970
     },
     {
         "title": "Event Horizon",
@@ -398,8 +461,12 @@
             " Jason Isaacs",
             " Sean Pertwee"
         ],
-        "genres": "Horror,Sci-Fi,Thriller",
-        "decade": "1990"
+        "genres": [
+            "Horror",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "decade": 1990
     },
     {
         "title": "Starsky & Hutch",
@@ -418,8 +485,11 @@
             " Carmen Electra",
             " George Cheung"
         ],
-        "genres": "Comedy,Crime",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Brothers Grimm",
@@ -437,11 +507,15 @@
             " Richard Ridings",
             " Mackenzie Crook",
             " Julian Bleach",
-            " Tom\u00e1s Han\u00e1k",
+            " Tomás Hanák",
             " Laura Greenwood"
         ],
-        "genres": "Action,Adventure,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Deewangee",
@@ -455,8 +529,12 @@
             " Farida Jalal",
             " Vijayendra Ghatge"
         ],
-        "genres": "Crime,Drama,Mystery",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "decade": 2000
     },
     {
         "title": "Hera Pheri",
@@ -473,8 +551,12 @@
             " P. Jairaj",
             " Yunus Parvez"
         ],
-        "genres": "Action,Comedy,Crime",
-        "decade": "1970"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "decade": 1970
     },
     {
         "title": "An American Tail",
@@ -493,8 +575,12 @@
             " Dom DeLuise",
             " Madeline Kahn"
         ],
-        "genres": "Adventure,Animation,Comedy",
-        "decade": "1980"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "decade": 1980
     },
     {
         "title": "Power Rangers Zeo",
@@ -516,8 +602,12 @@
             " Tadahiro Nakamura",
             " Kerrigan Mahan"
         ],
-        "genres": "Action,Adventure,Family",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Family"
+        ],
+        "decade": 1990
     },
     {
         "title": "True Grit",
@@ -535,8 +625,12 @@
             " Strother Martin",
             " Jeff Corey"
         ],
-        "genres": "Adventure,Drama,Western",
-        "decade": "1960"
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Western"
+        ],
+        "decade": 1960
     },
     {
         "title": "Gigi",
@@ -556,8 +650,12 @@
             " Edwin Jerome",
             " Corinne Marchand"
         ],
-        "genres": "Comedy,Musical,Romance",
-        "decade": "1950"
+        "genres": [
+            "Comedy",
+            "Musical",
+            "Romance"
+        ],
+        "decade": 1950
     },
     {
         "title": "The Squid and the Whale",
@@ -576,8 +674,11 @@
             " David Benger",
             " Adam Rose"
         ],
-        "genres": "Comedy,Drama",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "War",
@@ -589,7 +690,7 @@
             " Jason Statham",
             " John Lone",
             " Devon Aoki",
-            " Luis Guzm\u00e1n",
+            " Luis Guzmán",
             " Saul Rubinek",
             " Sung Kang",
             " Mathew St. Patrick",
@@ -600,8 +701,11 @@
             " Ryo Ishibashi",
             " Steph Song"
         ],
-        "genres": "Action,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Miracle",
@@ -631,8 +735,12 @@
             " Eric Peter-Kaiser",
             " Bobby Hanson"
         ],
-        "genres": "Biography,Drama,History",
-        "decade": "2000"
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "decade": 2000
     },
     {
         "title": "Billy Elliot",
@@ -657,8 +765,11 @@
             " Trevor Fox",
             " Adam Cooper"
         ],
-        "genres": "Drama,Music",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Music"
+        ],
+        "decade": 2000
     },
     {
         "title": "Mandi",
@@ -676,8 +787,11 @@
             " Sreela Mazumdar",
             " Neena Gupta"
         ],
-        "genres": "Comedy,Drama",
-        "decade": "1980"
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "Cat on a Hot Tin Roof",
@@ -694,8 +808,10 @@
             " Larry Gates",
             " Vaughn Taylor"
         ],
-        "genres": "Drama",
-        "decade": "1950"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1950
     },
     {
         "title": "Monster-in-Law",
@@ -714,8 +830,11 @@
             " Elaine Stritch",
             " Stephen Dunham"
         ],
-        "genres": "Comedy,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Bobby",
@@ -733,8 +852,12 @@
             " Prem Chopra",
             " Farida Jalal"
         ],
-        "genres": "Comedy,Musical,Romance",
-        "decade": "1970"
+        "genres": [
+            "Comedy",
+            "Musical",
+            "Romance"
+        ],
+        "decade": 1970
     },
     {
         "title": "Just Friends",
@@ -753,8 +876,11 @@
             " Ryan Reynolds",
             " Stephen Root"
         ],
-        "genres": "Comedy,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Next",
@@ -767,14 +893,18 @@
             " Jessica Biel",
             " Thomas Kretschmann",
             " Tory Kittles",
-            " Jos\u00e9 Z\u00fa\u00f1iga",
+            " José Zúñiga",
             " Jim Beaver",
             " Jason Butler Harner",
             " Michael Trucco",
             " Enzo Cilenti"
         ],
-        "genres": "Action,Sci-Fi,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Hustle & Flow",
@@ -792,8 +922,12 @@
             " Elise Neal",
             " Isaac Hayes"
         ],
-        "genres": "Crime,Drama,Music",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Music"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Dark Crystal",
@@ -812,8 +946,12 @@
             " Percy Edwards",
             " Joseph O'Conor"
         ],
-        "genres": "Adventure,Family,Fantasy",
-        "decade": "1980"
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "decade": 1980
     },
     {
         "title": "The In-Laws",
@@ -831,8 +969,12 @@
             " Maria Ricossa",
             " Candice Bergen"
         ],
-        "genres": "Action,Comedy,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Adam: His Song Continues",
@@ -846,8 +988,11 @@
             " Martha Scott",
             " Paul Regina"
         ],
-        "genres": "Crime,Drama",
-        "decade": "1980"
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "The Bund",
@@ -855,8 +1000,11 @@
         "cast": [
             "Chow Yun Fat"
         ],
-        "genres": "Adventure,Drama",
-        "decade": "1980"
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "Pyaar Ke Side Effects",
@@ -875,8 +1023,12 @@
             " Sapna Bhavnani",
             " Sophiya Chaudhary"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Benji",
@@ -891,8 +1043,12 @@
             " Terry Carter",
             " Christopher Connelly"
         ],
-        "genres": "Adventure,Family,Romance",
-        "decade": "1970"
+        "genres": [
+            "Adventure",
+            "Family",
+            "Romance"
+        ],
+        "decade": 1970
     },
     {
         "title": "Rocky V",
@@ -909,8 +1065,11 @@
             " Burgess Meredith",
             " Tony Burton"
         ],
-        "genres": "Drama,Sport",
-        "decade": "1990"
+        "genres": [
+            "Drama",
+            "Sport"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Longest Yard",
@@ -932,8 +1091,12 @@
             " Jim Nicholson",
             " Tony Cacciotti"
         ],
-        "genres": "Comedy,Crime,Drama",
-        "decade": "1970"
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 1970
     },
     {
         "title": "Ocean's Thirteen",
@@ -952,8 +1115,12 @@
             " Casey Affleck",
             " Scott Caan"
         ],
-        "genres": "Action,Crime,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Carrie",
@@ -972,8 +1139,12 @@
             " Chelan Simmons",
             " Katharine Isabelle"
         ],
-        "genres": "Drama,Horror,Sci-Fi",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Horror",
+            "Sci-Fi"
+        ],
+        "decade": 2000
     },
     {
         "title": "What Lies Beneath",
@@ -993,8 +1164,12 @@
             " Amber Valletta",
             " Sloane Shelton"
         ],
-        "genres": "Drama,Fantasy,Horror",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Horror"
+        ],
+        "decade": 2000
     },
     {
         "title": "Charlie's Angels: Full Throttle",
@@ -1016,8 +1191,12 @@
             " Luke Wilson",
             " John Cleese"
         ],
-        "genres": "Action,Adventure,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Trikal (Past, Present, Future)",
@@ -1036,8 +1215,10 @@
             " Naseeruddin Shah",
             " Kulbhushan Kharbanda"
         ],
-        "genres": "Drama",
-        "decade": "1980"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "La Bamba",
@@ -1048,7 +1229,7 @@
             "Lou Diamond Phillips",
             " Esai Morales",
             " Rosanna DeSoto",
-            " Elizabeth Pe\u00f1a",
+            " Elizabeth Peña",
             " Danielle von Zerneck",
             " Joe Pantoliano",
             " Rick Dees",
@@ -1056,8 +1237,12 @@
             " Howard Huntsberry",
             " Brian Setzer"
         ],
-        "genres": "Biography,Drama,Music",
-        "decade": "1980"
+        "genres": [
+            "Biography",
+            "Drama",
+            "Music"
+        ],
+        "decade": 1980
     },
     {
         "title": "Hero",
@@ -1073,28 +1258,34 @@
             " Wah Yuen",
             " Corey Yuen"
         ],
-        "genres": "Action,Drama",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
-        "title": "Pasi\u00f3n de Gavilanes",
+        "title": "Pasión de Gavilanes",
         "directors": [],
         "cast": [
-            "Danna Garc\u00eda",
+            "Danna García",
             " Mario Cimarro",
             " Paola Rey",
             " Jorge Cao",
             " Juan Alfonso Baptista",
             " Michel Brown",
-            " Gloria G\u00f3mez",
+            " Gloria Gómez",
             " Kristina Lilley",
             " Natasha Klauss",
-            " Ana Luc\u00eda Dom\u00ednguez",
-            " Zharick Le\u00f3n",
+            " Ana Lucía Domínguez",
+            " Zharick León",
             " Lorena Meritano"
         ],
-        "genres": "Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Pardes",
@@ -1121,8 +1312,12 @@
             " Aditya Narayan",
             " Subhash Ghai"
         ],
-        "genres": "Drama,Musical,Romance",
-        "decade": "1990"
+        "genres": [
+            "Drama",
+            "Musical",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Final Destination 2",
@@ -1141,8 +1336,11 @@
             " David Paetkau",
             " Justina Machado"
         ],
-        "genres": "Horror,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Matrix",
@@ -1162,8 +1360,11 @@
             " Matt Doran",
             " Belinda McClory"
         ],
-        "genres": "Action,Sci-Fi",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "decade": 1990
     },
     {
         "title": "Power Rangers Mystic Force",
@@ -1183,8 +1384,12 @@
             " Geoff Dolan",
             " Holly Shanahan"
         ],
-        "genres": "Action,Adventure,Fantasy",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Rain Man",
@@ -1202,8 +1407,10 @@
             " Lucinda Jenney",
             " Bonnie Hunt"
         ],
-        "genres": "Drama",
-        "decade": "1980"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "Carrie",
@@ -1227,8 +1434,10 @@
             " Harry Gold",
             " Noelle North"
         ],
-        "genres": "Horror",
-        "decade": "1970"
+        "genres": [
+            "Horror"
+        ],
+        "decade": 1970
     },
     {
         "title": "The River Wild",
@@ -1246,8 +1455,12 @@
             " William Lucking",
             " Diane Delano"
         ],
-        "genres": "Adventure,Crime,Thriller",
-        "decade": "1990"
+        "genres": [
+            "Adventure",
+            "Crime",
+            "Thriller"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Pelican Brief",
@@ -1267,8 +1480,12 @@
             " John Lithgow",
             " Hume Cronyn"
         ],
-        "genres": "Crime,Drama,Mystery",
-        "decade": "1990"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Cruise",
@@ -1283,10 +1500,12 @@
             " Andrzej Dobosz",
             " Feridun Erol",
             " Jolanta Lothe",
-            " Wanda Stanis\u0142awska-Lothe"
+            " Wanda Stanisławska-Lothe"
         ],
-        "genres": "Comedy",
-        "decade": "1970"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 1970
     },
     {
         "title": "Painted Faces",
@@ -1298,8 +1517,10 @@
             " Ching-Ying Lam",
             " Cheng Pei-pei"
         ],
-        "genres": "Drama",
-        "decade": "1980"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "Kill Bill: Vol. 1",
@@ -1318,8 +1539,12 @@
             " Sonny Chiba",
             " Gordon Liu"
         ],
-        "genres": "Action,Crime,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Richard Pryor: Live in Concert",
@@ -1329,8 +1554,10 @@
         "cast": [
             "Richard Pryor"
         ],
-        "genres": "Comedy",
-        "decade": "1970"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 1970
     },
     {
         "title": "Manoranjan",
@@ -1349,8 +1576,12 @@
             " Murad",
             " Shefali"
         ],
-        "genres": "Comedy,Musical,Romance",
-        "decade": "1970"
+        "genres": [
+            "Comedy",
+            "Musical",
+            "Romance"
+        ],
+        "decade": 1970
     },
     {
         "title": "Dragon Tiger Gate",
@@ -1369,8 +1600,12 @@
             " Vincent Sze",
             " Tommy Yuen"
         ],
-        "genres": "Action,Drama,Fantasy",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Drama",
+            "Fantasy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Know Your Enemy - Japan",
@@ -1382,8 +1617,12 @@
             "Walter Huston",
             " Dana Andrews"
         ],
-        "genres": "Documentary,History,War",
-        "decade": "1940"
+        "genres": [
+            "Documentary",
+            "History",
+            "War"
+        ],
+        "decade": 1940
     },
     {
         "title": "Power Rangers Lost Galaxy",
@@ -1405,8 +1644,12 @@
             " Bob Papenbrook",
             " Mari Maruta"
         ],
-        "genres": "Action,Adventure,Family",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Family"
+        ],
+        "decade": 1990
     },
     {
         "title": "Supergirl",
@@ -1419,8 +1662,12 @@
             " Helen Slater",
             " Peter Cook"
         ],
-        "genres": "Action,Adventure,Fantasy",
-        "decade": "1980"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "decade": 1980
     },
     {
         "title": "Saath Saath",
@@ -1437,8 +1684,10 @@
             " Avtar Gill",
             " Javed Khan"
         ],
-        "genres": "Drama",
-        "decade": "1980"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "Twin Peaks",
@@ -1446,7 +1695,7 @@
         "cast": [
             "Kyle MacLachlan",
             " Michael Ontkean",
-            " M\u00e4dchen Amick",
+            " Mädchen Amick",
             " Dana Ashbrook",
             " Richard Beymer",
             " Lara Flynn Boyle",
@@ -1471,8 +1720,12 @@
             " Gary Hershberger",
             " Grace Zabriskie"
         ],
-        "genres": "Crime,Drama,Mystery",
-        "decade": "1990"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "decade": 1990
     },
     {
         "title": "V for Vendetta",
@@ -1489,11 +1742,15 @@
             " Rupert Graves",
             " Roger Allam",
             " Ben Miles",
-            " Sin\u00e9ad Cusack",
+            " Sinéad Cusack",
             " Natasha Wightman"
         ],
-        "genres": "Action,Drama,Sci-Fi",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "decade": 2000
     },
     {
         "title": "Layer Cake",
@@ -1513,8 +1770,12 @@
             " Ben Whishaw",
             " Tamer Hassan"
         ],
-        "genres": "Action,Crime,Drama",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Lincoln",
@@ -1537,8 +1798,12 @@
             " David Oyelowo",
             " Bruce McGill"
         ],
-        "genres": "Biography,Drama,History",
-        "decade": "2010"
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "decade": 2010
     },
     {
         "title": "Rocky IV",
@@ -1555,8 +1820,11 @@
             " Tony Burton",
             " Michael Pataki"
         ],
-        "genres": "Drama,Sport",
-        "decade": "1980"
+        "genres": [
+            "Drama",
+            "Sport"
+        ],
+        "decade": 1980
     },
     {
         "title": "Raging Bull",
@@ -1574,8 +1842,12 @@
             " Frank Adonis",
             " Joseph Bono"
         ],
-        "genres": "Biography,Drama,Sport",
-        "decade": "1980"
+        "genres": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ],
+        "decade": 1980
     },
     {
         "title": "Thelonious Monk: Straight, No Chaser",
@@ -1586,8 +1858,12 @@
             "Thelonious Monk",
             " Samuel E. Wright"
         ],
-        "genres": "Biography,Documentary,Music",
-        "decade": "1980"
+        "genres": [
+            "Biography",
+            "Documentary",
+            "Music"
+        ],
+        "decade": 1980
     },
     {
         "title": "Boom",
@@ -1606,8 +1882,11 @@
             " Zeenat Aman",
             " Boman Irani"
         ],
-        "genres": "Crime,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "As Good as It Gets",
@@ -1624,8 +1903,12 @@
             " Yeardley Smith",
             " Lupe Ontiveros"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Fiza",
@@ -1644,8 +1927,12 @@
             " Sushmita Sen",
             " Manoj Bajpayee"
         ],
-        "genres": "Action,Crime,Drama",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Power Rangers Wild Force",
@@ -1663,8 +1950,12 @@
             " Danny Wayne",
             " Terence J. Rotolo"
         ],
-        "genres": "Action,Adventure,Drama",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Talented Mr. Ripley",
@@ -1683,8 +1974,12 @@
             " Philip Baker Hall",
             " Celia Weston"
         ],
-        "genres": "Crime,Drama,Thriller",
-        "decade": "1990"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "decade": 1990
     },
     {
         "title": "Crash",
@@ -1704,10 +1999,14 @@
             " Ryan Phillippe",
             " Larenz Tate",
             " Nona Gaye",
-            " Michael Pe\u00f1a"
+            " Michael Peña"
         ],
-        "genres": "Crime,Drama,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Run",
@@ -1726,8 +2025,12 @@
             " Mukul Agarwal",
             " Shweta Menon"
         ],
-        "genres": "Action,Comedy,Drama",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Break-Up",
@@ -1749,8 +2052,12 @@
             " Vernon Vaughn",
             " Vincent D'Onofrio"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Scream 2",
@@ -1779,8 +2086,11 @@
             " Joshua Jackson",
             " Luke Wilson"
         ],
-        "genres": "Horror,Mystery",
-        "decade": "1990"
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Game",
@@ -1797,8 +2107,12 @@
             " Anna Katarina",
             " Armin Mueller-Stahl"
         ],
-        "genres": "Action,Drama,Mystery",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Drama",
+            "Mystery"
+        ],
+        "decade": 1990
     },
     {
         "title": "Terminator Salvation",
@@ -1817,8 +2131,12 @@
             " Jane Alexander",
             " Michael Ironside"
         ],
-        "genres": "Action,Adventure,Sci-Fi",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "decade": 2000
     },
     {
         "title": "Aitraaz",
@@ -1834,8 +2152,12 @@
             " Paresh Rawal",
             " Annu Kapoor"
         ],
-        "genres": "Drama,Romance,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Romance",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Strictly Ballroom",
@@ -1852,8 +2174,12 @@
             " Barry Otto",
             " John Hannan"
         ],
-        "genres": "Comedy,Drama,Music",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Music"
+        ],
+        "decade": 1990
     },
     {
         "title": "Dumb and Dumberer: When Harry Met Lloyd",
@@ -1865,14 +2191,16 @@
             " Derek Richardson",
             " Rachel Nichols",
             " Cheri Oteri",
-            " Luis Guzm\u00e1n",
+            " Luis Guzmán",
             " Elden Henson",
             " William Lee Scott",
             " Mimi Rogers",
             " Eugene Levy"
         ],
-        "genres": "Comedy",
-        "decade": "2000"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Martial Arts of Shaolin",
@@ -1888,8 +2216,11 @@
             " Yu Hai",
             " Jianwen Zhang"
         ],
-        "genres": "Action,Drama",
-        "decade": "1980"
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "Papa the Great",
@@ -1908,8 +2239,10 @@
             " Shama Deshpande",
             " Shatrughan Sinha"
         ],
-        "genres": "Family",
-        "decade": "2000"
+        "genres": [
+            "Family"
+        ],
+        "decade": 2000
     },
     {
         "title": "Rocky",
@@ -1927,13 +2260,16 @@
             " Jimmy Gambina",
             " Bill Baldwin"
         ],
-        "genres": "Drama,Sport",
-        "decade": "1970"
+        "genres": [
+            "Drama",
+            "Sport"
+        ],
+        "decade": 1970
     },
     {
         "title": "Berlin Calling",
         "directors": [
-            "Hannes St\u00f6hr"
+            "Hannes Stöhr"
         ],
         "cast": [
             "Paul Kalkbrenner",
@@ -1942,13 +2278,17 @@
             " Araba Walton",
             " Peter Schneider",
             " Rolf Peter Kahl",
-            " Henriette M\u00fcller",
+            " Henriette Müller",
             " Udo Kroschwald",
             " Megan Gay",
             " Max Mauff"
         ],
-        "genres": "Comedy,Drama,Music",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Music"
+        ],
+        "decade": 2000
     },
     {
         "title": "Gothika",
@@ -1961,12 +2301,16 @@
             " Charles S. Dutton",
             " John Carroll Lynch",
             " Bernard Hill",
-            " Pen\u00e9lope Cruz",
+            " Penélope Cruz",
             " Dorian Harewood",
             " Bronwen Mantel"
         ],
-        "genres": "Horror,Mystery,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "A Cinderella Story",
@@ -1990,8 +2334,12 @@
             " Erica Hubbard",
             " Simon Helberg"
         ],
-        "genres": "Comedy,Family,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Family",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Primal Fear",
@@ -2014,8 +2362,12 @@
             " Maura Tierney",
             " Stanley Anderson"
         ],
-        "genres": "Crime,Drama,Mystery",
-        "decade": "1990"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "decade": 1990
     },
     {
         "title": "Hitch",
@@ -2034,8 +2386,11 @@
             " Michael Rapaport",
             " Jeffrey Donovan"
         ],
-        "genres": "Comedy,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "300 Miles to Heaven",
@@ -2043,19 +2398,22 @@
             "Maciej Dejczer"
         ],
         "cast": [
-            "Krzysztof Stroi\u0144ski",
+            "Krzysztof Stroiński",
             " Andrzej Mellin",
-            " Adrianna Biedrzy\u0144ska",
-            " Adrianna Biedrzy\u0144ska",
-            " Rafa\u0142 Zimowski",
+            " Adrianna Biedrzyńska",
+            " Adrianna Biedrzyńska",
+            " Rafał Zimowski",
             " Kama Kowalewska",
-            " Wies\u0142aw Komasa",
+            " Wiesław Komasa",
             " Aleksander Bednarz",
             " Jadwiga Jankowska-Cieslak",
             " Wojciech Klata"
         ],
-        "genres": "Biography,Drama",
-        "decade": "1980"
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "The Stanford Prison Experiment",
@@ -2074,8 +2432,12 @@
             " Moises Arias",
             " Gaius Charles"
         ],
-        "genres": "Biography,Drama,History",
-        "decade": "2010"
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "decade": 2010
     },
     {
         "title": "Hotel Pacific",
@@ -2086,15 +2448,17 @@
             "Marek Kondrat",
             " Roman Wilhelmi",
             " Roman Skamene",
-            " \u010cestm\u00edr \u0158anda",
-            " Micha\u0142 Pawlicki",
+            " Čestmír Řanda",
+            " Michał Pawlicki",
             " Martin Hron",
-            " Stanis\u0142awa Celi\u0144ska",
+            " Stanisława Celińska",
             " Joanna Kasperska",
-            " Jaroslava Schallerov\u00e1"
+            " Jaroslava Schallerová"
         ],
-        "genres": "Drama",
-        "decade": "1970"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1970
     },
     {
         "title": "Fear and Loathing in Las Vegas",
@@ -2119,8 +2483,12 @@
             " Harry Dean Stanton",
             " Tim Thomerson"
         ],
-        "genres": "Adventure,Comedy,Drama",
-        "decade": "1990"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Hairspray",
@@ -2141,8 +2509,12 @@
             " Elijah Kelley",
             " Jerry Stiller"
         ],
-        "genres": "Comedy,Drama,Musical",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Musical"
+        ],
+        "decade": 2000
     },
     {
         "title": "Winter of Our Dreams",
@@ -2158,8 +2530,11 @@
             " Mervyn Drake",
             " Margie McCrae"
         ],
-        "genres": "Drama,Romance",
-        "decade": "1980"
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1980
     },
     {
         "title": "Power Rangers S.P.D.",
@@ -2181,13 +2556,17 @@
             " Derek Judge",
             " James Gaylyn"
         ],
-        "genres": "Action,Adventure,Sci-Fi",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "decade": 2000
     },
     {
         "title": "What's Eating Gilbert Grape",
         "directors": [
-            "Lasse Hallstr\u00f6m"
+            "Lasse Hallström"
         ],
         "cast": [
             "Johnny Depp",
@@ -2201,8 +2580,10 @@
             " John C. Reilly",
             " Crispin Glover"
         ],
-        "genres": "Drama",
-        "decade": "1990"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Snow Day",
@@ -2221,8 +2602,12 @@
             " Zena Grey",
             " Josh Peck"
         ],
-        "genres": "Adventure,Comedy,Family",
-        "decade": "2000"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Family"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Great Raid",
@@ -2246,8 +2631,12 @@
             " Max Martini",
             " Clayne Crawford"
         ],
-        "genres": "Action,Drama,War",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Drama",
+            "War"
+        ],
+        "decade": 2000
     },
     {
         "title": "GoldenEye",
@@ -2264,15 +2653,19 @@
             " Robbie Coltrane",
             " Gottfried John",
             " Alan Cumming",
-            " Tch\u00e9ky Karyo",
+            " Tchéky Karyo",
             " Desmond Llewelyn",
             " Samantha Bond",
             " Michael Kitchen",
             " Serena Gordon",
             " Simon Kunz"
         ],
-        "genres": "Action,Adventure,Thriller",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "decade": 1990
     },
     {
         "title": "Mutiny on the Bounty",
@@ -2288,8 +2681,12 @@
             " Richard Haydn",
             " Tarita"
         ],
-        "genres": "Adventure,Drama,History",
-        "decade": "1960"
+        "genres": [
+            "Adventure",
+            "Drama",
+            "History"
+        ],
+        "decade": 1960
     },
     {
         "title": "What a Girl Wants",
@@ -2306,8 +2703,12 @@
             " Oliver James",
             " Christina Cole"
         ],
-        "genres": "Comedy,Drama,Family",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "decade": 2000
     },
     {
         "title": "21",
@@ -2328,8 +2729,12 @@
             " Helen Carey",
             " Jack Gilpin"
         ],
-        "genres": "Crime,Drama,History",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Drama",
+            "History"
+        ],
+        "decade": 2000
     },
     {
         "title": "Trimurti",
@@ -2353,8 +2758,11 @@
             " Pramod Moutho",
             " Subhash Ghai"
         ],
-        "genres": "Action,Drama",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Holy Man",
@@ -2369,8 +2777,10 @@
             " Somlek Sakdikul",
             " Petchtai Wongkamlao"
         ],
-        "genres": "Comedy",
-        "decade": "2000"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Don",
@@ -2387,8 +2797,12 @@
             " Om Puri",
             " Pavan Malhotra"
         ],
-        "genres": "Action,Crime,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "A Night at the Roxbury",
@@ -2407,8 +2821,12 @@
             " Lochlyn Munro",
             " Dwayne Hickman"
         ],
-        "genres": "Comedy,Music,Romance",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Music",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Nappily Ever After",
@@ -2422,8 +2840,12 @@
             " Lyriq Bent",
             " Ernie Hudson"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "2010"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2010
     },
     {
         "title": "Shutter",
@@ -2441,8 +2863,12 @@
             " Chachchaya Chalemphol",
             " Kachormsak Naruepatr"
         ],
-        "genres": "Horror,Mystery,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Click",
@@ -2462,8 +2888,12 @@
             " Jake Hoffman",
             " Jennifer Coolidge"
         ],
-        "genres": "Comedy,Drama,Fantasy",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Elaan",
@@ -2478,8 +2908,12 @@
             " Madan Puri",
             " Brahm Bhardwaj"
         ],
-        "genres": "Action,Drama,Musical",
-        "decade": "1970"
+        "genres": [
+            "Action",
+            "Drama",
+            "Musical"
+        ],
+        "decade": 1970
     },
     {
         "title": "A Stoning in Fulham County",
@@ -2500,8 +2934,12 @@
             " Bill Allen",
             " Brad Pitt"
         ],
-        "genres": "Crime,Drama,Thriller",
-        "decade": "1980"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "decade": 1980
     },
     {
         "title": "San Pietro",
@@ -2509,8 +2947,12 @@
             "John Huston"
         ],
         "cast": [],
-        "genres": "Documentary,Short,War",
-        "decade": "1940"
+        "genres": [
+            "Documentary",
+            "Short",
+            "War"
+        ],
+        "decade": 1940
     },
     {
         "title": "Daddy Day Care",
@@ -2531,8 +2973,11 @@
             " Laura Kightlinger",
             " Leila Arcieri"
         ],
-        "genres": "Comedy,Family",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "decade": 2000
     },
     {
         "title": "Chicken Little",
@@ -2554,8 +2999,12 @@
             " Fred Willard",
             " Wallace Shawn"
         ],
-        "genres": "Adventure,Animation,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Season of the Witch",
@@ -2574,8 +3023,12 @@
             " Kevin Rees",
             " Andrew Hefler"
         ],
-        "genres": "Action,Adventure,Fantasy",
-        "decade": "2010"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "decade": 2010
     },
     {
         "title": "Alice Doesn't Live Here Anymore",
@@ -2594,18 +3047,21 @@
             " Jodie Foster",
             " Alfred Lutter"
         ],
-        "genres": "Drama,Romance",
-        "decade": "1970"
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1970
     },
     {
         "title": "Babel",
         "directors": [
-            "Alejandro G. I\u00f1\u00e1rritu"
+            "Alejandro G. Iñárritu"
         ],
         "cast": [
             "Brad Pitt",
             " Cate Blanchett",
-            " Gael Garc\u00eda Bernal",
+            " Gael García Bernal",
             " Koji Yakusho",
             " Adriana Barraza",
             " Rinko Kikuchi",
@@ -2615,8 +3071,10 @@
             " Nathan Gamble",
             " Mohamed Akhzam"
         ],
-        "genres": "Drama",
-        "decade": "2000"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Code Name: The Cleaner",
@@ -2633,8 +3091,12 @@
             " Niecy Nash",
             " Will Patton"
         ],
-        "genres": "Action,Comedy,Crime",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "decade": 2000
     },
     {
         "title": "Kya Kehna",
@@ -2648,8 +3110,11 @@
             " Farida Jalal",
             " Chandrachur Singh"
         ],
-        "genres": "Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Mujrim",
@@ -2668,8 +3133,11 @@
             " Jagdeep",
             " Sharat Saxena"
         ],
-        "genres": "Action,Crime",
-        "decade": "1980"
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "decade": 1980
     },
     {
         "title": "Trainspotting",
@@ -2690,8 +3158,10 @@
             " Pauline Lynch",
             " Shirley Henderson"
         ],
-        "genres": "Drama",
-        "decade": "1990"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Tarzan",
@@ -2710,8 +3180,12 @@
             " Wayne Knight",
             " Alex D. Linz"
         ],
-        "genres": "Adventure,Animation,Family",
-        "decade": "1990"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Family"
+        ],
+        "decade": 1990
     },
     {
         "title": "Center Stage",
@@ -2730,8 +3204,12 @@
             " Julie Kent",
             " Ilia Kulik"
         ],
-        "genres": "Drama,Music,Romance",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Music",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Khoon Khoon",
@@ -2746,8 +3224,12 @@
             " Helen",
             " Jagdeep"
         ],
-        "genres": "Crime,Mystery,Thriller",
-        "decade": "1970"
+        "genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "decade": 1970
     },
     {
         "title": "American Beauty",
@@ -2766,8 +3248,10 @@
             " Scott Bakula",
             " Sam Robards"
         ],
-        "genres": "Drama",
-        "decade": "1990"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Bolt",
@@ -2788,7 +3272,7 @@
             " J.P. Manoux",
             " Dan Fogelman",
             " Kari Wahlgren",
-            " Chlo\u00eb Grace Moretz",
+            " Chloë Grace Moretz",
             " Randy Savage",
             " Ronn Moss",
             " John DiMaggio",
@@ -2797,8 +3281,12 @@
             " Brian Stepanek",
             " Todd Cummings"
         ],
-        "genres": "Adventure,Animation,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Open Season",
@@ -2818,8 +3306,12 @@
             " Gordon Tootoosis",
             " Patrick Warburton"
         ],
-        "genres": "Adventure,Animation,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Vantage Point",
@@ -2831,15 +3323,19 @@
             " Matthew Fox",
             " Forest Whitaker",
             " Bruce McGill",
-            " Edgar Ram\u00edrez",
-            " Sa\u00efd Taghmaoui",
+            " Edgar Ramírez",
+            " Saïd Taghmaoui",
             " Ayelet Zurer",
             " Zoe Saldana",
             " Sigourney Weaver",
             " William Hurt"
         ],
-        "genres": "Action,Crime,Drama",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Battle of Midway",
@@ -2850,8 +3346,12 @@
             "Henry Fonda",
             " Jane Darwell"
         ],
-        "genres": "Documentary,Short,War",
-        "decade": "1940"
+        "genres": [
+            "Documentary",
+            "Short",
+            "War"
+        ],
+        "decade": 1940
     },
     {
         "title": "Chaahat",
@@ -2867,8 +3367,11 @@
             " Avtar Gill",
             " Mushtaq Khan"
         ],
-        "genres": "Drama,Romance",
-        "decade": "1990"
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Wyatt Earp",
@@ -2890,8 +3393,12 @@
             " Isabella Rossellini",
             " Tom Sizemore"
         ],
-        "genres": "Adventure,Biography,Crime",
-        "decade": "1990"
+        "genres": [
+            "Adventure",
+            "Biography",
+            "Crime"
+        ],
+        "decade": 1990
     },
     {
         "title": "Sliver",
@@ -2910,8 +3417,11 @@
             " Nina Foch",
             " Keene Curtis"
         ],
-        "genres": "Drama,Thriller",
-        "decade": "1990"
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "decade": 1990
     },
     {
         "title": "Taal",
@@ -2928,8 +3438,11 @@
             " Saurabh Shukla",
             " Supriya Karnik"
         ],
-        "genres": "Musical,Romance",
-        "decade": "1990"
+        "genres": [
+            "Musical",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Little Monsters",
@@ -2950,8 +3463,12 @@
             " J. Michael Hunter",
             " Tom Hull"
         ],
-        "genres": "Adventure,Comedy,Family",
-        "decade": "1980"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Family"
+        ],
+        "decade": 1980
     },
     {
         "title": "Kaalia",
@@ -2970,8 +3487,11 @@
             " Kader Khan",
             " Jagdeep"
         ],
-        "genres": "Action,Drama",
-        "decade": "1980"
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "Rang De Basanti",
@@ -2992,8 +3512,11 @@
             " Anupam Kher",
             " Madhavan"
         ],
-        "genres": "Comedy,Drama",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Hamburger Hill",
@@ -3016,8 +3539,12 @@
             " Steven Weber",
             " Tegan West"
         ],
-        "genres": "Action,Drama,Thriller",
-        "decade": "1980"
+        "genres": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "decade": 1980
     },
     {
         "title": "Rebel Without a Cause",
@@ -3036,8 +3563,10 @@
             " Dennis Hopper",
             " Edward Platt"
         ],
-        "genres": "Drama",
-        "decade": "1950"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1950
     },
     {
         "title": "Chewin' the Fat",
@@ -3049,8 +3578,10 @@
             " Mark Cox",
             " Paul Riley"
         ],
-        "genres": "Comedy",
-        "decade": "1990"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Other Side of the Wind",
@@ -3070,8 +3601,10 @@
             " Cameron Mitchell",
             " Paul Stewart"
         ],
-        "genres": "Drama",
-        "decade": "2010"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 2010
     },
     {
         "title": "Kill Bill: Vol. 2",
@@ -3090,8 +3623,12 @@
             " Claire Smithies",
             " Clark Middleton"
         ],
-        "genres": "Action,Crime,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Mystic River",
@@ -3110,8 +3647,12 @@
             " Emmy Rossum",
             " Spencer Treat Clark"
         ],
-        "genres": "Crime,Drama,Mystery",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Departed",
@@ -3130,26 +3671,34 @@
             " Alec Baldwin",
             " Kevin Corrigan"
         ],
-        "genres": "Crime,Drama,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Rebelde",
         "directors": [],
         "cast": [
-            "Anah\u00ed",
-            " Dulce Mar\u00eda",
+            "Anahí",
+            " Dulce María",
             " Alfonso Herrera",
             " Christopher Von Uckermann",
             " Maite Perroni",
-            " Christian Ch\u00e1vez",
+            " Christian Chávez",
             " Juan Ferrara",
             " Ninel Conde",
-            " Leticia Perdig\u00f3n",
+            " Leticia Perdigón",
             " Enrique Rocha"
         ],
-        "genres": "Comedy,Drama,Family",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "decade": 2000
     },
     {
         "title": "Medium",
@@ -3157,19 +3706,23 @@
             "Jacek Koprowicz"
         ],
         "cast": [
-            "W\u0142adys\u0142aw Kowalski",
-            " Micha\u0142 Bajor",
+            "Władysław Kowalski",
+            " Michał Bajor",
             " Jerzy Zelnik",
             " Jerzy Stuhr",
-            " Gra\u017cyna Szapo\u0142owska",
+            " Grażyna Szapołowska",
             " Jerzy Nowak",
-            " Ewa Da\u0142kowska",
+            " Ewa Dałkowska",
             " Piotr Machalica",
             " Zygmunt Zintel",
             " Henryk Bista"
         ],
-        "genres": "Horror,Mystery,Thriller",
-        "decade": "1980"
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "decade": 1980
     },
     {
         "title": "A Dangerous Woman",
@@ -3187,8 +3740,11 @@
             " Chloe Webb",
             " David Strathairn"
         ],
-        "genres": "Drama,Romance",
-        "decade": "1990"
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Mona Lisa Smile",
@@ -3207,8 +3763,10 @@
             " John Slattery",
             " Marcia Gay Harden"
         ],
-        "genres": "Drama",
-        "decade": "2000"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Howards End",
@@ -3227,8 +3785,11 @@
             " Nicola Duffett",
             " Susie Lindeman"
         ],
-        "genres": "Drama,Romance",
-        "decade": "1990"
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Donnie Brasco",
@@ -3247,8 +3808,12 @@
             " Robert Miano",
             " Zach Grenier"
         ],
-        "genres": "Biography,Crime,Drama",
-        "decade": "1990"
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Rugrats Movie",
@@ -3273,8 +3838,12 @@
             " Whoopi Goldberg",
             " David Spade"
         ],
-        "genres": "Adventure,Animation,Comedy",
-        "decade": "1990"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "decade": 1990
     },
     {
         "title": "Hazaaron Khwaishein Aisi",
@@ -3293,8 +3862,10 @@
             " Aditya Bhattacharya",
             " Arif Zakaria"
         ],
-        "genres": "Drama",
-        "decade": "2000"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "About a Boy",
@@ -3313,8 +3884,12 @@
             " Rachel Weisz",
             " Nicholas Hutchison"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "How to Be a Player",
@@ -3334,8 +3909,10 @@
             " Gilbert Gottfried",
             " Bernie Mac"
         ],
-        "genres": "Comedy",
-        "decade": "1990"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 1990
     },
     {
         "title": "Once Upon a Time in the West",
@@ -3355,8 +3932,10 @@
             " Frank Wolff",
             " Lionel Stander"
         ],
-        "genres": "Western",
-        "decade": "1960"
+        "genres": [
+            "Western"
+        ],
+        "decade": 1960
     },
     {
         "title": "Austin Powers: International Man of Mystery",
@@ -3376,8 +3955,11 @@
             " Charles Napier",
             " Will Ferrell"
         ],
-        "genres": "Adventure,Comedy",
-        "decade": "1990"
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 1990
     },
     {
         "title": "Gosford Park",
@@ -3406,8 +3988,12 @@
             " Emily Watson",
             " James Wilby"
         ],
-        "genres": "Comedy,Drama,Mystery",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Mystery"
+        ],
+        "decade": 2000
     },
     {
         "title": "Dad",
@@ -3429,8 +4015,11 @@
             " Bill Morey",
             " Mary Fogarty"
         ],
-        "genres": "Comedy,Drama",
-        "decade": "1980"
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "The Matrix Reloaded",
@@ -3452,8 +4041,11 @@
             " Randall Duk Kim",
             " Nona Gaye"
         ],
-        "genres": "Action,Sci-Fi",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Flintstones",
@@ -3472,8 +4064,12 @@
             " Sam Raimi",
             " Harvey Korman"
         ],
-        "genres": "Comedy,Family,Fantasy",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "decade": 1990
     },
     {
         "title": "Logan's Run",
@@ -3491,8 +4087,11 @@
             " Gary Morgan",
             " Greg Lewis"
         ],
-        "genres": "Action,Sci-Fi",
-        "decade": "1970"
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "decade": 1970
     },
     {
         "title": "The Time Traveler's Wife",
@@ -3512,8 +4111,12 @@
             " Brooklynn Proulx",
             " Alex Ferris"
         ],
-        "genres": "Drama,Fantasy,Romance",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Bad Boys",
@@ -3523,8 +4126,8 @@
         "cast": [
             "Will Smith",
             " Martin Lawrence",
-            " T\u00e9a Leoni",
-            " Tch\u00e9ky Karyo",
+            " Téa Leoni",
+            " Tchéky Karyo",
             " Theresa Randle",
             " Joe Pantoliano",
             " Emmanuel Xuereb",
@@ -3532,8 +4135,12 @@
             " Nestor Serrano",
             " Julio Oscar Mechoso"
         ],
-        "genres": "Action,Comedy,Crime",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "decade": 1990
     },
     {
         "title": "One 2 Ka 4",
@@ -3552,8 +4159,12 @@
             " Baby Gazala",
             " Akash Khurana"
         ],
-        "genres": "Action,Comedy,Crime",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "decade": 2000
     },
     {
         "title": "Ghayal",
@@ -3570,8 +4181,12 @@
             " Raj Babbar",
             " Shabbir Khan"
         ],
-        "genres": "Action,Crime,Drama",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Daughters of the Dust",
@@ -3590,8 +4205,12 @@
             " Tommy Redmond Hicks",
             " Cornell Royal"
         ],
-        "genres": "Drama,History,Romance",
-        "decade": "1990"
+        "genres": [
+            "Drama",
+            "History",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Terminator 3: Rise of the Machines",
@@ -3610,8 +4229,11 @@
             " Chopper Bernet",
             " Christopher Lawford"
         ],
-        "genres": "Action,Sci-Fi",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "decade": 2000
     },
     {
         "title": "Martin Lawrence Live: Runteldat",
@@ -3621,8 +4243,11 @@
         "cast": [
             "Martin Lawrence"
         ],
-        "genres": "Comedy,Documentary",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Documentary"
+        ],
+        "decade": 2000
     },
     {
         "title": "K-19: The Widowmaker",
@@ -3641,8 +4266,12 @@
             " John Shrapnel",
             " Donald Sumpter"
         ],
-        "genres": "Drama,History,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "History",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Devrai",
@@ -3660,8 +4289,10 @@
             " Ashwin Chitale",
             " Jyoti Subhash"
         ],
-        "genres": "Drama",
-        "decade": "2000"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Lucky: No Time for Love",
@@ -3679,8 +4310,12 @@
             " Vikram Gokhale",
             " Mumait Khan"
         ],
-        "genres": "Drama,Musical,Romance",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Musical",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Space Cowboys",
@@ -3701,8 +4336,12 @@
             " Barbara Babcock",
             " Blair Brown"
         ],
-        "genres": "Action,Adventure,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Doctor Zhivago",
@@ -3720,8 +4359,12 @@
             " Ralph Richardson",
             " Jeffrey Rockland"
         ],
-        "genres": "Drama,Romance,War",
-        "decade": "1960"
+        "genres": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "decade": 1960
     },
     {
         "title": "The First Wives Club",
@@ -3745,8 +4388,10 @@
             " Bronson Pinchot",
             " Rob Reiner"
         ],
-        "genres": "Comedy",
-        "decade": "1990"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Last Days of Chez Nous",
@@ -3761,8 +4406,12 @@
             " Kiri Paramore",
             " Bill Hunter"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Monty Python and the Holy Grail",
@@ -3781,8 +4430,12 @@
             " Carol Cleveland",
             " Neil Innes"
         ],
-        "genres": "Adventure,Comedy,Fantasy",
-        "decade": "1970"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "decade": 1970
     },
     {
         "title": "Executive Decision",
@@ -3801,8 +4454,12 @@
             " Len Cariou",
             " Whip Hubley"
         ],
-        "genres": "Action,Adventure,Thriller",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Last Boy Scout",
@@ -3819,8 +4476,12 @@
             " Halle Berry",
             " Bruce McGill"
         ],
-        "genres": "Action,Comedy,Crime",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "decade": 1990
     },
     {
         "title": "Nacho Libre",
@@ -3830,7 +4491,7 @@
         "cast": [
             "Jack Black",
             " Ana de la Reguera",
-            " H\u00e9ctor Jim\u00e9nez",
+            " Héctor Jiménez",
             " Darius Rose",
             " Moises Arias",
             " Diego Eduardo Gomez",
@@ -3839,8 +4500,12 @@
             " Cesar Gonzalez",
             " Rafael Montalvo"
         ],
-        "genres": "Comedy,Family,Sport",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Family",
+            "Sport"
+        ],
+        "decade": 2000
     },
     {
         "title": "Free Willy",
@@ -3859,8 +4524,12 @@
             " Michael Bacall",
             " Danielle Harris"
         ],
-        "genres": "Adventure,Drama,Family",
-        "decade": "1990"
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Family"
+        ],
+        "decade": 1990
     },
     {
         "title": "Pitaah",
@@ -3879,8 +4548,11 @@
             " Mink Singh",
             " Siddharth"
         ],
-        "genres": "Action,Drama",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Inkheart",
@@ -3899,8 +4571,12 @@
             " Lesley Sharp",
             " Jamie Foreman"
         ],
-        "genres": "Adventure,Family,Fantasy",
-        "decade": "2000"
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Lady in the Water",
@@ -3915,12 +4591,16 @@
             " Sarita Choudhury",
             " Cindy Cheung",
             " M. Night Shyamalan",
-            " Freddy Rodr\u00edguez",
+            " Freddy Rodríguez",
             " Bill Irwin",
             " Mary Beth Hurt"
         ],
-        "genres": "Drama,Fantasy,Mystery",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Mystery"
+        ],
+        "decade": 2000
     },
     {
         "title": "Hamara Dil Aapke Paas Hai",
@@ -3941,8 +4621,11 @@
             " Smita Jaykar",
             " Tanaaz Currim Irani"
         ],
-        "genres": "Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Poseidon",
@@ -3955,29 +4638,36 @@
             " Jacinda Barrett",
             " Richard Dreyfuss",
             " Emmy Rossum",
-            " M\u00eda Maestro",
+            " Mía Maestro",
             " Mike Vogel",
             " Kevin Dillon",
-            " Freddy Rodr\u00edguez"
+            " Freddy Rodríguez"
         ],
-        "genres": "Action,Adventure,Drama",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Westerplatte Resists",
         "directors": [
-            "Stanis\u0142aw R\u00f3\u017cewicz"
+            "Stanisław Różewicz"
         ],
         "cast": [
-            "Zygmunt H\u00fcbner",
+            "Zygmunt Hübner",
             " Arkadiusz Bazak",
             " Tadeusz Schmidt",
-            " J\u00f3zef Nowak",
-            " Tadeusz Pluci\u0144ski",
+            " Józef Nowak",
+            " Tadeusz Pluciński",
             " Bogusz Bilewski"
         ],
-        "genres": "Drama,War",
-        "decade": "1960"
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "decade": 1960
     },
     {
         "title": "Mahjong Heroes",
@@ -3992,8 +4682,10 @@
             " Lau Hak-Suen",
             " Kwan Hoi-san"
         ],
-        "genres": "Comedy",
-        "decade": "1980"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 1980
     },
     {
         "title": "Salaakhen",
@@ -4012,8 +4704,11 @@
             " Amrish Puri",
             " Ramesh Deo"
         ],
-        "genres": "Action,Thriller",
-        "decade": "1970"
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "decade": 1970
     },
     {
         "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
@@ -4029,11 +4724,15 @@
             " Kenn Scott",
             " Kevin Clash",
             " Ernie Reyes Jr.",
-            " Fran\u00e7ois Chau",
+            " François Chau",
             " Kevin Nash"
         ],
-        "genres": "Action,Adventure,Comedy",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Box",
@@ -4051,8 +4750,12 @@
             " Celia Weston",
             " Deborah Rush"
         ],
-        "genres": "Drama,Fantasy,Mystery",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Mystery"
+        ],
+        "decade": 2000
     },
     {
         "title": "Surf's Up",
@@ -4072,8 +4775,12 @@
             " Rob Machado",
             " Sal Masekela"
         ],
-        "genres": "Animation,Comedy,Family",
-        "decade": "2000"
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "decade": 2000
     },
     {
         "title": "Good Burger",
@@ -4093,8 +4800,11 @@
             " Josh Server",
             " Ginny Schreiber"
         ],
-        "genres": "Comedy,Family",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "decade": 1990
     },
     {
         "title": "Coach Carter",
@@ -4114,8 +4824,12 @@
             " Denise Dowse",
             " Debbi Morgan"
         ],
-        "genres": "Biography,Drama,Sport",
-        "decade": "2000"
+        "genres": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Dukes of Hazzard",
@@ -4134,8 +4848,10 @@
             " Michael Roof",
             " Joe Don Baker"
         ],
-        "genres": "Comedy",
-        "decade": "2000"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Humko Deewana Kar Gaye",
@@ -4157,8 +4873,11 @@
             " Manoj Joshi",
             " Anil Kapoor"
         ],
-        "genres": "Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Ujala",
@@ -4173,8 +4892,12 @@
             " Dhumal",
             " Kumkum"
         ],
-        "genres": "Crime,Drama,Romance",
-        "decade": "1950"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1950
     },
     {
         "title": "Scary Movie",
@@ -4199,8 +4922,10 @@
             " Marissa Jaret Winokur",
             " Dan Joffre"
         ],
-        "genres": "Comedy",
-        "decade": "2000"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Peacemaker",
@@ -4219,8 +4944,12 @@
             " Alexander Strobele",
             " Holt McCallany"
         ],
-        "genres": "Action,Adventure,Thriller",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "decade": 1990
     },
     {
         "title": "In Defense of a Married Man",
@@ -4237,8 +4966,11 @@
             " Cynthia Sikes",
             " Johnny Galecki"
         ],
-        "genres": "Crime,Drama",
-        "decade": "1990"
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Bhoot",
@@ -4255,8 +4987,12 @@
             " Tanuja",
             " Seema Biswas"
         ],
-        "genres": "Horror,Mystery,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Jhankaar Beats",
@@ -4271,8 +5007,11 @@
             " Juhi Chawla",
             " Shayan Munshi"
         ],
-        "genres": "Comedy,Music",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Music"
+        ],
+        "decade": 2000
     },
     {
         "title": "Forbidden Planet",
@@ -4288,8 +5027,12 @@
             " James Drury",
             " Earl Holliman"
         ],
-        "genres": "Action,Adventure,Sci-Fi",
-        "decade": "1950"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "decade": 1950
     },
     {
         "title": "Professor",
@@ -4308,8 +5051,12 @@
             " Bela Bose",
             " Ratnamala"
         ],
-        "genres": "Comedy,Drama,Musical",
-        "decade": "1960"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Musical"
+        ],
+        "decade": 1960
     },
     {
         "title": "Crouching Tiger, Hidden Dragon",
@@ -4328,8 +5075,12 @@
             " Yan Hai",
             " De Ming Wang"
         ],
-        "genres": "Action,Adventure,Fantasy",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Charlie and the Chocolate Factory",
@@ -4352,8 +5103,12 @@
             " Jordan Fry",
             " Philip Wiegratz"
         ],
-        "genres": "Adventure,Comedy,Family",
-        "decade": "2000"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Family"
+        ],
+        "decade": 2000
     },
     {
         "title": "16 Blocks",
@@ -4372,8 +5127,12 @@
             " Patrick Garrow",
             " Sasha Roiz"
         ],
-        "genres": "Action,Crime,Drama",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "No Reservations",
@@ -4387,11 +5146,15 @@
             " Patricia Clarkson",
             " Jenny Wade",
             " Bob Balaban",
-            " Br\u00edan F. O'Byrne",
+            " Brían F. O'Byrne",
             " Lily Rabe"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Good Luck Chuck",
@@ -4415,8 +5178,11 @@
             " Michelle Harrison",
             " Chiara Zanni"
         ],
-        "genres": "Comedy,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Scott Pilgrim vs. the World",
@@ -4439,8 +5205,12 @@
             " Johnny Simmons",
             " Ellen Wong"
         ],
-        "genres": "Action,Comedy,Fantasy",
-        "decade": "2010"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "decade": 2010
     },
     {
         "title": "Indiana Jones and the Last Crusade",
@@ -4459,8 +5229,11 @@
             " Kevork Malikyan",
             " Robert Eddison"
         ],
-        "genres": "Action,Adventure",
-        "decade": "1980"
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "decade": 1980
     },
     {
         "title": "World Trade Center",
@@ -4469,7 +5242,7 @@
         ],
         "cast": [
             "Nicolas Cage",
-            " Michael Pe\u00f1a",
+            " Michael Peña",
             " Maggie Gyllenhaal",
             " Maria Bello",
             " Stephen Dorff",
@@ -4482,8 +5255,12 @@
             " Viola Davis",
             " William Mapother"
         ],
-        "genres": "Drama,History,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "History",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Tears of the Sun",
@@ -4504,8 +5281,12 @@
             " Malick Bowens",
             " Awaovieyi Agie"
         ],
-        "genres": "Action,Drama,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Chamatkar",
@@ -4524,8 +5305,12 @@
             " Anjan Srivastav",
             " Rakesh Bedi"
         ],
-        "genres": "Comedy,Drama,Fantasy",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "decade": 1990
     },
     {
         "title": "Four Weddings and a Funeral",
@@ -4547,8 +5332,12 @@
             " Anna Chancellor",
             " Corin Redgrave"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Ring",
@@ -4567,8 +5356,11 @@
             " Daveigh Chase",
             " Shannon Cochran"
         ],
-        "genres": "Horror,Mystery",
-        "decade": "2000"
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "decade": 2000
     },
     {
         "title": "Haseena Maan Jaayegi",
@@ -4595,8 +5387,12 @@
             " Mohan Joshi",
             " Anil Dhawan"
         ],
-        "genres": "Action,Comedy,Romance",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Amityville Horror",
@@ -4606,7 +5402,7 @@
         "cast": [
             "Ryan Reynolds",
             " Melissa George",
-            " Chlo\u00eb Grace Moretz",
+            " Chloë Grace Moretz",
             " Jesse James",
             " Jimmy Bennett",
             " Rachel Nichols",
@@ -4615,8 +5411,10 @@
             " Brendan Donaldson",
             " Annabel Armour"
         ],
-        "genres": "Horror",
-        "decade": "2000"
+        "genres": [
+            "Horror"
+        ],
+        "decade": 2000
     },
     {
         "title": "Troy",
@@ -4635,8 +5433,11 @@
             " Julie Christie",
             " Saffron Burrows"
         ],
-        "genres": "Drama,History",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Trigger Effect",
@@ -4653,8 +5454,11 @@
             " Tori Kristiansen",
             " Tyra Kristiansen"
         ],
-        "genres": "Drama,Thriller",
-        "decade": "1990"
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Saint",
@@ -4673,27 +5477,34 @@
             " Irina Apeksimova",
             " Lev Prygunov"
         ],
-        "genres": "Action,Adventure,Romance",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Chronicle of an Escape",
         "directors": [
-            "Israel Adri\u00e1n Caetano"
+            "Israel Adrián Caetano"
         ],
         "cast": [
             "Rodrigo de la Serna",
             " Pablo Echarri",
             " Nazareno Casero",
             " Lautaro Delgado",
-            " Mat\u00edas Marmorato",
-            " Mart\u00edn Urruty",
-            " C\u00e9sar Albarrac\u00edn",
+            " Matías Marmorato",
+            " Martín Urruty",
+            " César Albarracín",
             " Guillermo Fernandez",
             " Daniel Di Biase"
         ],
-        "genres": "Crime,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Sweeney Todd: The Demon Barber of Fleet Street",
@@ -4711,8 +5522,12 @@
             " Jayne Wisener",
             " Ed Sanders"
         ],
-        "genres": "Drama,Horror,Musical",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Horror",
+            "Musical"
+        ],
+        "decade": 2000
     },
     {
         "title": "Bollywood Calling",
@@ -4725,8 +5540,12 @@
             " Navin Nischol",
             " Perizaad Zorabian"
         ],
-        "genres": "Comedy,Drama,Music",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Music"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Pink Panther",
@@ -4736,7 +5555,7 @@
         "cast": [
             "Steve Martin",
             " Kevin Kline",
-            " Beyonc\u00e9 Knowles-Carter",
+            " Beyoncé Knowles-Carter",
             " Jean Reno",
             " Emily Mortimer",
             " Henry Czerny",
@@ -4746,8 +5565,12 @@
             " Henri Garcin",
             " William Abadie"
         ],
-        "genres": "Adventure,Comedy,Crime",
-        "decade": "2000"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Crime"
+        ],
+        "decade": 2000
     },
     {
         "title": "Now and Then",
@@ -4768,8 +5591,12 @@
             " Bonnie Hunt",
             " Cloris Leachman"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Employee of the Month",
@@ -4788,8 +5615,11 @@
             " Danny Woodburn",
             " Harland Williams"
         ],
-        "genres": "Comedy,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Evolution",
@@ -4808,8 +5638,11 @@
             " Ty Burrell",
             " Dan Aykroyd"
         ],
-        "genres": "Comedy,Sci-Fi",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "decade": 2000
     },
     {
         "title": "Something's Gotta Give",
@@ -4826,8 +5659,12 @@
             " Paul Michael Glaser",
             " Rachel Ticotin"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Ocean's Twelve",
@@ -4846,8 +5683,11 @@
             " Casey Affleck",
             " Scott Caan"
         ],
-        "genres": "Crime,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Rosemary's Baby",
@@ -4866,8 +5706,11 @@
             " Emmaline Henry",
             " Charles Grodin"
         ],
-        "genres": "Drama,Horror",
-        "decade": "1960"
+        "genres": [
+            "Drama",
+            "Horror"
+        ],
+        "decade": 1960
     },
     {
         "title": "Power Rangers in Space",
@@ -4889,8 +5732,12 @@
             " Tsuyoshi Takishita",
             " Lex Lang"
         ],
-        "genres": "Action,Adventure,Family",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Family"
+        ],
+        "decade": 1990
     },
     {
         "title": "Melvin Goes to Dinner",
@@ -4909,8 +5756,12 @@
             " Jenna Fischer",
             " Fred Armisen"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Child's Play",
@@ -4926,11 +5777,14 @@
             " Tommy Swerdlow",
             " Jack Colvin",
             " Neil Giuntoli",
-            " Juan Ram\u00edrez",
+            " Juan Ramírez",
             " Alan Wilder"
         ],
-        "genres": "Horror,Thriller",
-        "decade": "1980"
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "decade": 1980
     },
     {
         "title": "The Pursuit of Happyness",
@@ -4947,8 +5801,11 @@
             " Kurt Fuller",
             " Takayo Fischer"
         ],
-        "genres": "Biography,Drama",
-        "decade": "2000"
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Monty Python's Fliegender Zirkus",
@@ -4961,8 +5818,10 @@
             " Michael Palin",
             " Connie Booth"
         ],
-        "genres": "Comedy",
-        "decade": "1970"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 1970
     },
     {
         "title": "For the Love of Benji",
@@ -4981,8 +5840,12 @@
             " Dean Goss",
             " Tony Alatis"
         ],
-        "genres": "Adventure,Comedy,Drama",
-        "decade": "1970"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "decade": 1970
     },
     {
         "title": "Men in Black II",
@@ -5001,8 +5864,12 @@
             " Jack Kehler",
             " David Cross"
         ],
-        "genres": "Action,Adventure,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Parole Officer",
@@ -5021,8 +5888,11 @@
             " Lena Headey",
             " Jenny Agutter"
         ],
-        "genres": "Comedy,Crime",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "decade": 2000
     },
     {
         "title": "Lifeline",
@@ -5039,8 +5909,10 @@
             " Lam Suet",
             " Kenneth Chan"
         ],
-        "genres": "Drama",
-        "decade": "1990"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Amrapali",
@@ -5057,8 +5929,11 @@
             " K.N. Singh",
             " Randhir"
         ],
-        "genres": "Fantasy,Musical",
-        "decade": "1960"
+        "genres": [
+            "Fantasy",
+            "Musical"
+        ],
+        "decade": 1960
     },
     {
         "title": "Initial D",
@@ -5076,8 +5951,12 @@
             " Jordan Chan",
             " Kenny Bee"
         ],
-        "genres": "Action,Comedy,Drama",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Mr. Woodcock",
@@ -5095,8 +5974,12 @@
             " Kurt Fuller",
             " Amy Poehler"
         ],
-        "genres": "Comedy,Romance,Sport",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Romance",
+            "Sport"
+        ],
+        "decade": 2000
     },
     {
         "title": "Sparkle",
@@ -5112,8 +5995,11 @@
             " Beatrice Winde",
             " Lonette McKee"
         ],
-        "genres": "Drama,Music",
-        "decade": "1970"
+        "genres": [
+            "Drama",
+            "Music"
+        ],
+        "decade": 1970
     },
     {
         "title": "The Gathering",
@@ -5132,8 +6018,11 @@
             " Wilza Lubis",
             " Nico Siahaan"
         ],
-        "genres": "Comedy,Drama",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Playing for Time",
@@ -5153,8 +6042,11 @@
             " Christine Baranski",
             " Lenore Harris"
         ],
-        "genres": "Drama,Music",
-        "decade": "1980"
+        "genres": [
+            "Drama",
+            "Music"
+        ],
+        "decade": 1980
     },
     {
         "title": "The Spiderwick Chronicles",
@@ -5172,8 +6064,12 @@
             " Andrew McCarthy",
             " Martin Short"
         ],
-        "genres": "Action,Adventure,Drama",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Patriot Games",
@@ -5193,8 +6089,11 @@
             " James Earl Jones",
             " Richard Harris"
         ],
-        "genres": "Action,Thriller",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "decade": 1990
     },
     {
         "title": "Superstar",
@@ -5214,8 +6113,11 @@
             " Jennifer Irwin",
             " Tom Green"
         ],
-        "genres": "Comedy,Romance",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Qila",
@@ -5230,8 +6132,12 @@
             " Smita Jaykar",
             " Gulshan Grover"
         ],
-        "genres": "Drama,Family,Music",
-        "decade": "1990"
+        "genres": [
+            "Drama",
+            "Family",
+            "Music"
+        ],
+        "decade": 1990
     },
     {
         "title": "Ek Jaan Hain Hum",
@@ -5248,8 +6154,11 @@
             " Gulshan Grover",
             " Monty Sharma"
         ],
-        "genres": "Family,Romance",
-        "decade": "1980"
+        "genres": [
+            "Family",
+            "Romance"
+        ],
+        "decade": 1980
     },
     {
         "title": "Anger Management",
@@ -5260,7 +6169,7 @@
             "Adam Sandler",
             " Jack Nicholson",
             " Marisa Tomei",
-            " Luis Guzm\u00e1n",
+            " Luis Guzmán",
             " Allen Covert",
             " Lynne Thigpen",
             " Kurt Fuller",
@@ -5271,8 +6180,10 @@
             " John Turturro",
             " Kevin Nealon"
         ],
-        "genres": "Comedy",
-        "decade": "2000"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Unaccompanied Minors",
@@ -5289,10 +6200,14 @@
             " Quinn Shephard",
             " Paget Brewster",
             " Rob Corddry",
-            " Dominique Salda\u00f1a"
+            " Dominique Saldaña"
         ],
-        "genres": "Adventure,Comedy,Family",
-        "decade": "2000"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Family"
+        ],
+        "decade": 2000
     },
     {
         "title": "Coraline",
@@ -5309,11 +6224,15 @@
             " Robert Bailey Jr.",
             " Ian McShane"
         ],
-        "genres": "Animation,Drama,Family",
-        "decade": "2000"
+        "genres": [
+            "Animation",
+            "Drama",
+            "Family"
+        ],
+        "decade": 2000
     },
     {
-        "title": "\u00c6on Flux",
+        "title": "Æon Flux",
         "directors": [
             "Karyn Kusama"
         ],
@@ -5330,8 +6249,12 @@
             " Paterson Joseph",
             " Yangzom Brauen"
         ],
-        "genres": "Action,Adventure,Sci-Fi",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "decade": 2000
     },
     {
         "title": "Cleopatra Jones",
@@ -5345,8 +6268,12 @@
             " Esther Rolle",
             " Shelley Winters"
         ],
-        "genres": "Action,Crime,Thriller",
-        "decade": "1970"
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "decade": 1970
     },
     {
         "title": "Exit Wounds",
@@ -5366,8 +6293,12 @@
             " David Vadim",
             " Eva Mendes"
         ],
-        "genres": "Action,Crime,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Craft",
@@ -5386,8 +6317,12 @@
             " Cliff De Young",
             " Assumpta Serna"
         ],
-        "genres": "Drama,Fantasy,Horror",
-        "decade": "1990"
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Horror"
+        ],
+        "decade": 1990
     },
     {
         "title": "Enter the Dragon",
@@ -5407,8 +6342,12 @@
             " Bolo Yeung",
             " Peter Archer"
         ],
-        "genres": "Action,Crime,Drama",
-        "decade": "1970"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 1970
     },
     {
         "title": "The Natural",
@@ -5427,8 +6366,11 @@
             " Joe Don Baker",
             " John Finnegan"
         ],
-        "genres": "Drama,Sport",
-        "decade": "1980"
+        "genres": [
+            "Drama",
+            "Sport"
+        ],
+        "decade": 1980
     },
     {
         "title": "Fullmetal Alchemist",
@@ -5455,8 +6397,12 @@
             " Kotono Mitsuishi",
             " Satomi Koorogi"
         ],
-        "genres": "Action,Adventure,Animation",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Bare-Footed Kid",
@@ -5471,8 +6417,11 @@
             " Paul Chun",
             " Kenneth Tsang"
         ],
-        "genres": "Action,Drama",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Money Talks",
@@ -5484,14 +6433,18 @@
             " Chris Tucker",
             " Heather Locklear",
             " Paul Sorvino",
-            " G\u00e9rard Isma\u00ebl",
+            " Gérard Ismaël",
             " Damian Chapa",
             " Elise Neal",
             " Michael Wright",
             " Veronica Cartwright"
         ],
-        "genres": "Action,Comedy,Crime",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "decade": 1990
     },
     {
         "title": "Vientos de agua",
@@ -5499,16 +6452,18 @@
         "cast": [
             "Ernesto Alterio",
             " Eduardo Blanco",
-            " H\u00e9ctor Alterio",
-            " Dar\u00edo Valenzuela",
+            " Héctor Alterio",
+            " Darío Valenzuela",
             " Pablo Rago",
             " Angie Cepeda",
             " Marta Etura",
             " Giulia Michelini",
             " Carlos Kaspar"
         ],
-        "genres": "Drama",
-        "decade": "2000"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Young Vagabond",
@@ -5526,8 +6481,11 @@
             " Kuo Hua Chang",
             " Feng Kuan"
         ],
-        "genres": "Action,Comedy",
-        "decade": "1980"
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "decade": 1980
     },
     {
         "title": "Knowing",
@@ -5544,8 +6502,12 @@
             " Alan Hopgood",
             " Adrienne Pickering"
         ],
-        "genres": "Drama,Mystery,Sci-Fi",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "decade": 2000
     },
     {
         "title": "Stripes",
@@ -5565,8 +6527,11 @@
             " Lance LeGault",
             " Judge Reinhold"
         ],
-        "genres": "Comedy,War",
-        "decade": "1980"
+        "genres": [
+            "Comedy",
+            "War"
+        ],
+        "decade": 1980
     },
     {
         "title": "Raja Hindustani",
@@ -5584,8 +6549,12 @@
             " Pramod Moutho",
             " Mohnish Bahl"
         ],
-        "genres": "Action,Comedy,Drama",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Score",
@@ -5602,8 +6571,12 @@
             " Jamie Harrold",
             " Serge Houde"
         ],
-        "genres": "Crime,Drama,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Class of '61",
@@ -5620,8 +6593,12 @@
             " Sue-Ann Leeds",
             " Laura Linney"
         ],
-        "genres": "Action,Adventure,Drama",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Zoom",
@@ -5639,8 +6616,12 @@
             " Rip Torn",
             " Kevin Zegers"
         ],
-        "genres": "Action,Adventure,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "All the Boys Love Mandy Lane",
@@ -5658,8 +6639,10 @@
             " Luke Grimes",
             " Melissa Price"
         ],
-        "genres": "Horror",
-        "decade": "2000"
+        "genres": [
+            "Horror"
+        ],
+        "decade": 2000
     },
     {
         "title": "Blow",
@@ -5668,18 +6651,22 @@
         ],
         "cast": [
             "Johnny Depp",
-            " Pen\u00e9lope Cruz",
+            " Penélope Cruz",
             " Franka Potente",
             " Rachel Griffiths",
             " Paul Reubens",
-            " Jordi Moll\u00e0",
+            " Jordi Mollà",
             " Cliff Curtis",
             " Miguel Sandoval",
             " Ethan Suplee",
             " Ray Liotta"
         ],
-        "genres": "Biography,Crime,Drama",
-        "decade": "2000"
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Super Mario Bros. Super Show!",
@@ -5695,8 +6682,12 @@
             " Jonathan Potts",
             " Colin Fox"
         ],
-        "genres": "Action,Adventure,Animation",
-        "decade": "1980"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "decade": 1980
     },
     {
         "title": "Too Young the Hero",
@@ -5712,8 +6703,12 @@
             " Rick Warner",
             " Tom Wood"
         ],
-        "genres": "Biography,Drama,War",
-        "decade": "1980"
+        "genres": [
+            "Biography",
+            "Drama",
+            "War"
+        ],
+        "decade": 1980
     },
     {
         "title": "Masoom",
@@ -5730,8 +6725,10 @@
             " Tanuja",
             " Supriya Pathak"
         ],
-        "genres": "Drama",
-        "decade": "1980"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "Swordfish",
@@ -5750,8 +6747,12 @@
             " Zach Grenier",
             " Camryn Grimes"
         ],
-        "genres": "Action,Crime,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Phantom of the Opera",
@@ -5764,13 +6765,17 @@
             " Patrick Wilson",
             " Miranda Richardson",
             " Minnie Driver",
-            " Ciar\u00e1n Hinds",
+            " Ciarán Hinds",
             " Simon Callow",
             " Victor McGuire",
             " Jennifer Ellison"
         ],
-        "genres": "Drama,Musical,Romance",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Musical",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Paid in Full",
@@ -5790,8 +6795,12 @@
             " Regina Hall",
             " Joyce Walker"
         ],
-        "genres": "Action,Crime,Drama",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Trailer Park Boys: The Movie",
@@ -5815,8 +6824,11 @@
             " John Dunsworth",
             " Patrick Roach"
         ],
-        "genres": "Comedy,Crime",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "decade": 2000
     },
     {
         "title": "Get Smart",
@@ -5836,8 +6848,12 @@
             " Nate Torrence",
             " Bill Murray"
         ],
-        "genres": "Action,Adventure,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Neon Genesis Evangelion",
@@ -5859,8 +6875,12 @@
             " Junko Iwao",
             " Mugihito"
         ],
-        "genres": "Action,Animation,Drama",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Animation",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Don",
@@ -5879,8 +6899,12 @@
             " Arpana Choudhry",
             " Helen"
         ],
-        "genres": "Action,Crime,Thriller",
-        "decade": "1970"
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "decade": 1970
     },
     {
         "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
@@ -5896,8 +6920,12 @@
             " Kari Wahlgren",
             " Crispin Freeman"
         ],
-        "genres": "Action,Adventure,Animation",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "decade": 2000
     },
     {
         "title": "Lock, Stock and Two Smoking Barrels",
@@ -5916,8 +6944,11 @@
             " Vinnie Jones",
             " Lenny McLean"
         ],
-        "genres": "Comedy,Crime",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "decade": 1990
     },
     {
         "title": "Kicking and Screaming",
@@ -5936,8 +6967,12 @@
             " Elliott Gould",
             " Samuel Gould"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Hellboy",
@@ -5958,8 +6993,12 @@
             " Corey Johnson",
             " Kevin Trainor"
         ],
-        "genres": "Action,Fantasy,Horror",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Horror"
+        ],
+        "decade": 2000
     },
     {
         "title": "P.S. I Love You",
@@ -5978,8 +7017,12 @@
             " Jeffrey Dean Morgan",
             " Dean Winters"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Dum",
@@ -5996,8 +7039,12 @@
             " Yashpal Sharma",
             " Sheeba"
         ],
-        "genres": "Action,Crime,Drama",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Stuart Little 2",
@@ -6014,8 +7061,12 @@
             " James Woods",
             " Steve Zahn"
         ],
-        "genres": "Adventure,Animation,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Rumble in the Bronx",
@@ -6025,15 +7076,19 @@
         "cast": [
             "Jackie Chan",
             " Anita Mui",
-            " Fran\u00e7oise Yip",
+            " Françoise Yip",
             " Bill Tung",
             " Marc Akerstream",
             " Garvin Cross",
             " Morgan Lam",
             " Ailen Sit"
         ],
-        "genres": "Action,Comedy,Crime",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "decade": 1990
     },
     {
         "title": "Red Dawn",
@@ -6052,8 +7107,11 @@
             " Ben Johnson",
             " Harry Dean Stanton"
         ],
-        "genres": "Action,Drama",
-        "decade": "1980"
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "Chitty Chitty Bang Bang",
@@ -6064,7 +7122,7 @@
             "Dick Van Dyke",
             " Sally Ann Howes",
             " Lionel Jeffries",
-            " Gert Fr\u00f6be",
+            " Gert Fröbe",
             " Anna Quayle",
             " Benny Hill",
             " James Robertson Justice",
@@ -6073,12 +7131,16 @@
             " Adrian Hall",
             " Barbara Windsor",
             " Davy Kaye",
-            " Alexander Dor\u00e9",
+            " Alexander Doré",
             " Bernard Spear",
             " Stanley Unwin"
         ],
-        "genres": "Adventure,Family,Fantasy",
-        "decade": "1960"
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "decade": 1960
     },
     {
         "title": "Sin City",
@@ -6105,8 +7167,11 @@
             " Michael Clarke Duncan",
             " Michael Madsen"
         ],
-        "genres": "Crime,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Yaar Gaddar",
@@ -6125,8 +7190,11 @@
             " Yunus Parvez",
             " Umesh Shukla"
         ],
-        "genres": "Action,Drama",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Power Rangers Lightspeed Rescue",
@@ -6139,12 +7207,16 @@
             " Sasha Craig",
             " Monica Louwerens",
             " Rhett Fisher",
-            " Ron Rogg\u00e9",
+            " Ron Roggé",
             " Jennifer L. Yen",
             " Kim Strauss"
         ],
-        "genres": "Action,Adventure,Drama",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Magnolia",
@@ -6156,7 +7228,7 @@
             " Tom Cruise",
             " Melinda Dillon",
             " April Grace",
-            " Luis Guzm\u00e1n",
+            " Luis Guzmán",
             " Philip Baker Hall",
             " Philip Seymour Hoffman",
             " Ricky Jay",
@@ -6168,8 +7240,10 @@
             " Jason Robards",
             " Melora Walters"
         ],
-        "genres": "Drama",
-        "decade": "1990"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Indiana Jones and the Temple of Doom",
@@ -6188,8 +7262,11 @@
             " Ric Young",
             " Chua Kah Joo"
         ],
-        "genres": "Action,Adventure",
-        "decade": "1980"
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "decade": 1980
     },
     {
         "title": "Aakhri Adaalat",
@@ -6206,8 +7283,11 @@
             " Gulshan Grover",
             " Roopesh Kumar"
         ],
-        "genres": "Action,Thriller",
-        "decade": "1980"
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "decade": 1980
     },
     {
         "title": "Philadelphia",
@@ -6224,10 +7304,12 @@
             " Robert Ridgely",
             " Charles Napier",
             " Lisa Summerour",
-            " Obba Babatund\u00e9"
+            " Obba Babatundé"
         ],
-        "genres": "Drama",
-        "decade": "1990"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Jimmy Neutron: Boy Genius",
@@ -6248,8 +7330,12 @@
             " Patrick Stewart",
             " Jim Cummings"
         ],
-        "genres": "Action,Adventure,Animation",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Lake House",
@@ -6266,8 +7352,12 @@
             " Willeke van Ammelrooy",
             " Christopher Plummer"
         ],
-        "genres": "Drama,Fantasy,Romance",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "An American Tail: Fievel Goes West",
@@ -6286,8 +7376,12 @@
             " John Cleese",
             " Jon Lovitz"
         ],
-        "genres": "Adventure,Animation,Family",
-        "decade": "1990"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Family"
+        ],
+        "decade": 1990
     },
     {
         "title": "Final Destination",
@@ -6306,8 +7400,11 @@
             " Roger Guenveur Smith",
             " Amanda Detmer"
         ],
-        "genres": "Horror,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Monster House",
@@ -6328,8 +7425,12 @@
             " Nick Cannon",
             " Kevin James"
         ],
-        "genres": "Adventure,Animation,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Love Jones",
@@ -6346,8 +7447,11 @@
             " Bernadette L. Clarke",
             " Khalil Kain"
         ],
-        "genres": "Drama,Romance",
-        "decade": "1990"
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Mr. Virgin",
@@ -6361,8 +7465,11 @@
             " Chung Ping Geung",
             " Anglie Leung"
         ],
-        "genres": "Comedy,Drama",
-        "decade": "1980"
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "Love on Delivery",
@@ -6374,8 +7481,10 @@
             " Christy Chung",
             " Ng Man-Tat"
         ],
-        "genres": "Comedy",
-        "decade": "1990"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 1990
     },
     {
         "title": "Candyman",
@@ -6392,8 +7501,11 @@
             " Michael Culkin",
             " Stanley DeSantis"
         ],
-        "genres": "Horror,Thriller",
-        "decade": "1990"
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "decade": 1990
     },
     {
         "title": "North & South",
@@ -6402,7 +7514,7 @@
             "Daniela Denby-Ashe",
             " Richard Armitage",
             " Tim Pigott-Smith",
-            " Sin\u00e9ad Cusack",
+            " Sinéad Cusack",
             " Lesley Manville",
             " Brendan Coyle",
             " Anna Maxwell Martin",
@@ -6410,8 +7522,11 @@
             " Pauline Quirke",
             " Kay Lyon"
         ],
-        "genres": "Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Bewafaa",
@@ -6431,8 +7546,11 @@
             " Raj Premi",
             " Supriya Karnik"
         ],
-        "genres": "Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Guru",
@@ -6451,8 +7569,11 @@
             " Dhritiman Chatterjee",
             " Manoj Joshi"
         ],
-        "genres": "Biography,Drama",
-        "decade": "2000"
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Lord of the Rings: The Return of the King",
@@ -6473,8 +7594,12 @@
             " Orlando Bloom",
             " Hugo Weaving"
         ],
-        "genres": "Adventure,Drama,Fantasy",
-        "decade": "2000"
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Swades",
@@ -6491,8 +7616,10 @@
             " Daya Shankar Pandey",
             " Farrukh Jaffar"
         ],
-        "genres": "Drama",
-        "decade": "2000"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Legendary Weapons of China",
@@ -6508,8 +7635,12 @@
             " Sheng Fu",
             " Kara Hui"
         ],
-        "genres": "Action,Comedy,Drama",
-        "decade": "1980"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "Gangs of New York",
@@ -6528,8 +7659,11 @@
             " Gary Lewis",
             " Stephen Graham"
         ],
-        "genres": "Crime,Drama",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Insan",
@@ -6548,8 +7682,12 @@
             " Archana Puran Singh",
             " Sharat Saxena"
         ],
-        "genres": "Action,Crime,Drama",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Catch Me If You Can",
@@ -6568,8 +7706,12 @@
             " Frank John Hughes",
             " Steve Eastin"
         ],
-        "genres": "Biography,Crime,Drama",
-        "decade": "2000"
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Cincinnati Kid",
@@ -6589,8 +7731,10 @@
             " Jeff Corey",
             " Theo Marcuse"
         ],
-        "genres": "Drama",
-        "decade": "1960"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1960
     },
     {
         "title": "The Brave One",
@@ -6605,12 +7749,16 @@
             " Nicky Katt",
             " Mary Steenburgen",
             " Lenny Venito",
-            " Zo\u00eb Kravitz",
+            " Zoë Kravitz",
             " Jane Adams",
             " Gordon MacDonald"
         ],
-        "genres": "Action,Crime,Drama",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Across the Universe",
@@ -6627,8 +7775,12 @@
             " T.V. Carpio",
             " Spencer Liff"
         ],
-        "genres": "Drama,Fantasy,History",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "History"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Negro Soldier",
@@ -6636,8 +7788,12 @@
             "Stuart Heisler"
         ],
         "cast": [],
-        "genres": "Documentary,Drama,War",
-        "decade": "1940"
+        "genres": [
+            "Documentary",
+            "Drama",
+            "War"
+        ],
+        "decade": 1940
     },
     {
         "title": "Jaal",
@@ -6654,8 +7810,11 @@
             " Tanuja",
             " Amrit Pal"
         ],
-        "genres": "Action,Drama",
-        "decade": "1980"
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "Evan Almighty",
@@ -6675,8 +7834,12 @@
             " Jonah Hill",
             " Jimmy Bennett"
         ],
-        "genres": "Comedy,Family,Fantasy",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Ghulam-E-Musthafa",
@@ -6695,8 +7858,12 @@
             " Ashwin Kaushal",
             " Satish Shah"
         ],
-        "genres": "Action,Crime,Drama",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Jay and Silent Bob Strike Back",
@@ -6716,8 +7883,10 @@
             " Will Ferrell",
             " Jason Lee"
         ],
-        "genres": "Comedy",
-        "decade": "2000"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Like Water for Chocolate",
@@ -6727,15 +7896,18 @@
         "cast": [
             "Marco Leonardi",
             " Lumi Cavazos",
-            " Regina Torn\u00e9",
-            " Mario Iv\u00e1n Mart\u00ednez",
+            " Regina Torné",
+            " Mario Iván Martínez",
             " Ada Carrasco",
             " Yareli Arizmendi",
-            " Claudette Maill\u00e9",
+            " Claudette Maillé",
             " Pilar Aranda"
         ],
-        "genres": "Drama,Romance",
-        "decade": "1990"
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Kabhi Haan Kabhi Naa",
@@ -6754,8 +7926,12 @@
             " Ravi Baswani",
             " Naseeruddin Shah"
         ],
-        "genres": "Comedy,Drama,Music",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Music"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Lives of Others",
@@ -6763,7 +7939,7 @@
             "Florian Henckel von Donnersmarck"
         ],
         "cast": [
-            "Ulrich M\u00fche",
+            "Ulrich Mühe",
             " Martina Gedeck",
             " Sebastian Koch",
             " Ulrich Tukur",
@@ -6771,10 +7947,14 @@
             " Hans-Uwe Bauer",
             " Volkmar Kleinert",
             " Matthias Brenner",
-            " Charly H\u00fcbner"
+            " Charly Hübner"
         ],
-        "genres": "Drama,Mystery,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Grease",
@@ -6798,8 +7978,11 @@
             " Joan Blondell",
             " Frankie Avalon"
         ],
-        "genres": "Musical,Romance",
-        "decade": "1970"
+        "genres": [
+            "Musical",
+            "Romance"
+        ],
+        "decade": 1970
     },
     {
         "title": "Chalte Chalte",
@@ -6816,8 +7999,11 @@
             " Jayshree T.",
             " Johny Lever"
         ],
-        "genres": "Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Mask of Zorro",
@@ -6831,13 +8017,17 @@
             " Stuart Wilson",
             " Matt Letscher",
             " Tony Amendola",
-            " Pedro Armend\u00e1riz Jr.",
+            " Pedro Armendáriz Jr.",
             " William Marquez",
-            " Jos\u00e9 P\u00e9rez",
+            " José Pérez",
             " Victor Rivers"
         ],
-        "genres": "Action,Adventure,Comedy",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 1990
     },
     {
         "title": "American Psycho",
@@ -6850,7 +8040,7 @@
             " Jared Leto",
             " Reese Witherspoon",
             " Samantha Mathis",
-            " Chlo\u00eb Sevigny",
+            " Chloë Sevigny",
             " Justin Theroux",
             " Josh Lucas",
             " Matt Ross",
@@ -6858,8 +8048,12 @@
             " Cara Seymour",
             " Guinevere Turner"
         ],
-        "genres": "Comedy,Crime,Drama",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Tunisian Victory",
@@ -6873,8 +8067,11 @@
         "cast": [
             "Burgess Meredith"
         ],
-        "genres": "Documentary,War",
-        "decade": "1940"
+        "genres": [
+            "Documentary",
+            "War"
+        ],
+        "decade": 1940
     },
     {
         "title": "Christmas with the Kranks",
@@ -6891,10 +8088,13 @@
             " M. Emmet Walsh",
             " Kevin Chamberlin",
             " Elizabeth Franz",
-            " Ren\u00e9 Lavan"
+            " René Lavan"
         ],
-        "genres": "Comedy,Family",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "decade": 2000
     },
     {
         "title": "It Takes Two",
@@ -6909,8 +8109,12 @@
             " Philip Bosco",
             " Jane Sibbett"
         ],
-        "genres": "Comedy,Family,Romance",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Family",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Dil Hai Tumhaara",
@@ -6927,8 +8131,11 @@
             " Dilip Joshi",
             " Govind Namdeo"
         ],
-        "genres": "Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Interview",
@@ -6943,8 +8150,12 @@
             " Michael Caton",
             " Peter McCauley"
         ],
-        "genres": "Crime,Drama,Thriller",
-        "decade": "1990"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "decade": 1990
     },
     {
         "title": "Shabd",
@@ -6959,8 +8170,10 @@
             " Sadiya Siddiqui",
             " Kamini Khanna"
         ],
-        "genres": "Drama",
-        "decade": "2000"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Dinner for Schmucks",
@@ -6981,8 +8194,10 @@
             " David Walliams",
             " Larry Wilmore"
         ],
-        "genres": "Comedy",
-        "decade": "2010"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 2010
     },
     {
         "title": "The Original Kings of Comedy",
@@ -6995,8 +8210,11 @@
             " Cedric the Entertainer",
             " Bernie Mac"
         ],
-        "genres": "Comedy,Documentary",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Documentary"
+        ],
+        "decade": 2000
     },
     {
         "title": "Darna Mana Hai",
@@ -7019,8 +8237,10 @@
             " Sohail Khan",
             " Vivek Oberoi"
         ],
-        "genres": "Horror",
-        "decade": "2000"
+        "genres": [
+            "Horror"
+        ],
+        "decade": 2000
     },
     {
         "title": "Scream 3",
@@ -7044,8 +8264,11 @@
             " Patrick Warburton",
             " Jamie Kennedy"
         ],
-        "genres": "Horror,Mystery",
-        "decade": "2000"
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "decade": 2000
     },
     {
         "title": "3 Deewarein",
@@ -7061,8 +8284,11 @@
             " Aditya Lakhia",
             " Shri Vallabh Vyas"
         ],
-        "genres": "Crime,Drama",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Kung Fu Hustle",
@@ -7083,8 +8309,12 @@
             " Kwok Kuen Chan",
             " Qiu Yuen"
         ],
-        "genres": "Action,Comedy,Fantasy",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Bad Boys II",
@@ -7094,7 +8324,7 @@
         "cast": [
             "Will Smith",
             " Martin Lawrence",
-            " Jordi Moll\u00e0",
+            " Jordi Mollà",
             " Gabrielle Union",
             " Peter Stormare",
             " Theresa Randle",
@@ -7103,8 +8333,12 @@
             " Jon Seda",
             " Yul Vazquez"
         ],
-        "genres": "Action,Comedy,Crime",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "decade": 2000
     },
     {
         "title": "King's Ransom",
@@ -7123,29 +8357,35 @@
             " Charlie Murphy",
             " Brooke D'Orsay"
         ],
-        "genres": "Comedy,Crime",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "decade": 2000
     },
     {
         "title": "Vizontele",
         "directors": [
-            "Y\u0131lmaz Erdo\u011fan",
-            " \u00d6mer Faruk Sorak"
+            "Yılmaz Erdoğan",
+            " Ömer Faruk Sorak"
         ],
         "cast": [
-            "Y\u0131lmaz Erdo\u011fan",
-            " Demet Akba\u011f",
+            "Yılmaz Erdoğan",
+            " Demet Akbağ",
             " Altan Erkekli",
-            " Cem Y\u0131lmaz",
-            " Cezmi Bask\u0131n",
-            " Bican G\u00fcnalan",
-            " Sebnem S\u00f6nmez",
-            " \u0130clal Ayd\u0131n",
-            " Mesut \u00c7akarli",
-            " Zeynep Toku\u015f"
+            " Cem Yılmaz",
+            " Cezmi Baskın",
+            " Bican Günalan",
+            " Sebnem Sönmez",
+            " İclal Aydın",
+            " Mesut Çakarli",
+            " Zeynep Tokuş"
         ],
-        "genres": "Comedy,Drama",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Swami",
@@ -7162,8 +8402,10 @@
             " Preeti Ganguli",
             " Sudha Shivpuri"
         ],
-        "genres": "Drama",
-        "decade": "1970"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1970
     },
     {
         "title": "Big Fat Liar",
@@ -7183,8 +8425,12 @@
             " Lee Majors",
             " John Cho"
         ],
-        "genres": "Adventure,Comedy,Family",
-        "decade": "2000"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Family"
+        ],
+        "decade": 2000
     },
     {
         "title": "Heartbreakers",
@@ -7203,8 +8449,12 @@
             " Ricky Jay",
             " Zach Galifianakis"
         ],
-        "genres": "Comedy,Crime,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Ghost Rider",
@@ -7223,8 +8473,12 @@
             " Raquel Alessi",
             " Laurence Breuls"
         ],
-        "genres": "Action,Fantasy,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Zodiac",
@@ -7241,10 +8495,14 @@
             " Donal Logue",
             " John Carroll Lynch",
             " Dermot Mulroney",
-            " Chlo\u00eb Sevigny"
+            " Chloë Sevigny"
         ],
-        "genres": "Crime,Drama,Mystery",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "decade": 2000
     },
     {
         "title": "Austin Powers in Goldmember",
@@ -7253,7 +8511,7 @@
         ],
         "cast": [
             "Mike Myers",
-            " Beyonc\u00e9 Knowles-Carter",
+            " Beyoncé Knowles-Carter",
             " Seth Green",
             " Michael York",
             " Robert Wagner",
@@ -7262,8 +8520,12 @@
             " Michael Caine",
             " Fred Savage"
         ],
-        "genres": "Action,Adventure,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Kate & Leopold",
@@ -7282,8 +8544,12 @@
             " Josh Stamberg",
             " Matthew Sussman"
         ],
-        "genres": "Comedy,Fantasy,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Stuart Little",
@@ -7297,8 +8563,12 @@
             " Hugh Laurie",
             " Nathan Lane"
         ],
-        "genres": "Adventure,Comedy,Family",
-        "decade": "1990"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Family"
+        ],
+        "decade": 1990
     },
     {
         "title": "The President's Barber",
@@ -7317,8 +8587,11 @@
             " Gyu-su Jeong",
             " Dal-su Oh"
         ],
-        "genres": "Comedy,Drama",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Taxi Driver",
@@ -7339,8 +8612,11 @@
             " Steven Prince",
             " Martin Scorsese"
         ],
-        "genres": "Crime,Drama",
-        "decade": "1970"
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "decade": 1970
     },
     {
         "title": "Prince Charming",
@@ -7354,8 +8630,11 @@
             " Rosamund Kwan",
             " Maggie Cheung"
         ],
-        "genres": "Comedy,Romance",
-        "decade": "1980"
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "decade": 1980
     },
     {
         "title": "Sadma",
@@ -7370,8 +8649,10 @@
             " Paintal",
             " Arvind Deshpande"
         ],
-        "genres": "Romance",
-        "decade": "1980"
+        "genres": [
+            "Romance"
+        ],
+        "decade": 1980
     },
     {
         "title": "Shaka Zulu",
@@ -7393,8 +8674,12 @@
             " Gugu Nxumalo",
             " Tu Nokwe"
         ],
-        "genres": "Action,Biography,Drama",
-        "decade": "1980"
+        "genres": [
+            "Action",
+            "Biography",
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "Robotech",
@@ -7409,8 +8694,12 @@
             " Robert Axelrod",
             " Robert V. Barron"
         ],
-        "genres": "Action,Adventure,Animation",
-        "decade": "1980"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "decade": 1980
     },
     {
         "title": "Ek Khiladi Ek Haseena",
@@ -7429,8 +8718,12 @@
             " Gulshan Grover",
             " Amin Hajee"
         ],
-        "genres": "Comedy,Crime,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Brick",
@@ -7449,8 +8742,12 @@
             " Meagan Good",
             " Brian White"
         ],
-        "genres": "Action,Crime,Drama",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Godzilla",
@@ -7470,8 +8767,12 @@
             " Doug Savant",
             " Malcolm Danare"
         ],
-        "genres": "Action,Sci-Fi,Thriller",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Matrix Revolutions",
@@ -7492,8 +8793,11 @@
             " Lambert Wilson",
             " Nona Gaye"
         ],
-        "genres": "Action,Sci-Fi",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "decade": 2000
     },
     {
         "title": "Harold & Kumar Escape from Guantanamo Bay",
@@ -7510,12 +8814,15 @@
             " Neil Patrick Harris",
             " Danneel Ackles",
             " Eric Winter",
-            " Paula Garc\u00e9s",
+            " Paula Garcés",
             " Jon Reep",
             " Missi Pyle"
         ],
-        "genres": "Adventure,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Dante's Peak",
@@ -7526,7 +8833,7 @@
             "Pierce Brosnan",
             " Linda Hamilton",
             " Elizabeth Hoffman",
-            " Jamie Ren\u00e9e Smith",
+            " Jamie Renée Smith",
             " Jeremy Foley",
             " Charles Hallahan",
             " Grant Heslov",
@@ -7534,8 +8841,12 @@
             " Arabella Field",
             " Tzi Ma"
         ],
-        "genres": "Action,Adventure,Thriller",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "decade": 1990
     },
     {
         "title": "9",
@@ -7553,8 +8864,12 @@
             " Alan Oppenheimer",
             " Tom Kane"
         ],
-        "genres": "Action,Adventure,Animation",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "decade": 2000
     },
     {
         "title": "Oh Darling Yeh Hai India",
@@ -7573,8 +8888,10 @@
             " Tiku Talsania",
             " Kader Khan"
         ],
-        "genres": "Comedy",
-        "decade": "1990"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 1990
     },
     {
         "title": "Final Destination 3",
@@ -7594,8 +8911,11 @@
             " Crystal Lowe",
             " Amanda Crew"
         ],
-        "genres": "Horror,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Bee Movie",
@@ -7605,7 +8925,7 @@
         ],
         "cast": [
             "Jerry Seinfeld",
-            " Ren\u00e9e Zellweger",
+            " Renée Zellweger",
             " Matthew Broderick",
             " Patrick Warburton",
             " John Goodman",
@@ -7615,8 +8935,12 @@
             " Larry King",
             " Ray Liotta"
         ],
-        "genres": "Adventure,Animation,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Jimi Hendrix",
@@ -7628,8 +8952,12 @@
             " Eric Clapton",
             " Billy Cox"
         ],
-        "genres": "Biography,Documentary,Music",
-        "decade": "1970"
+        "genres": [
+            "Biography",
+            "Documentary",
+            "Music"
+        ],
+        "decade": 1970
     },
     {
         "title": "Five Elements Ninjas",
@@ -7645,8 +8973,11 @@
             " Li Wang",
             " Ke Chu"
         ],
-        "genres": "Action,Drama",
-        "decade": "1980"
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "Unspeakable Acts",
@@ -7658,8 +8989,11 @@
             " Brad Davis",
             " Sam Behrens"
         ],
-        "genres": "Biography,Drama",
-        "decade": "1990"
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Spy Kids",
@@ -7678,8 +9012,12 @@
             " Alexa PenaVega",
             " Daryl Sabara"
         ],
-        "genres": "Action,Adventure,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Mansfield Park",
@@ -7698,8 +9036,12 @@
             " Victoria Hamilton",
             " Hugh Bonneville"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Black Hawk Down",
@@ -7728,8 +9070,12 @@
             " Jeremy Piven",
             " Brendan Sexton III"
         ],
-        "genres": "Drama,History,War",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ],
+        "decade": 2000
     },
     {
         "title": "Fracture",
@@ -7748,8 +9094,12 @@
             " Bob Gunton",
             " Josh Stamberg"
         ],
-        "genres": "Crime,Drama,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Barsaat",
@@ -7765,8 +9115,11 @@
             " Mukesh Khanna",
             " Harish Patel"
         ],
-        "genres": "Action,Romance",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Schindler's List",
@@ -7780,15 +9133,19 @@
             " Caroline Goodall",
             " Jonathan Sagall",
             " Embeth Davidtz",
-            " Ma\u0142gorzata Gebel",
+            " Małgorzata Gebel",
             " Shmulik Levy",
             " Mark Ivanir",
             " Beatrice Macola",
             " Friedrich von Thun",
             " Andrzej Seweryn"
         ],
-        "genres": "Biography,Drama,History",
-        "decade": "1990"
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "decade": 1990
     },
     {
         "title": "Where the Money Is",
@@ -7807,8 +9164,12 @@
             " Dorothy Gordon",
             " Rita Tuckett"
         ],
-        "genres": "Comedy,Crime,Drama",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "One Last Shot",
@@ -7820,8 +9181,12 @@
             " John Paul Tremblay",
             " John Dunsworth"
         ],
-        "genres": "Comedy,Drama,Short",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Short"
+        ],
+        "decade": 1990
     },
     {
         "title": "Cirque du Freak: The Vampire's Assistant",
@@ -7847,8 +9212,12 @@
             " Jessica Carlson",
             " Kristen Schaal"
         ],
-        "genres": "Action,Adventure,Fantasy",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Charlotte's Web",
@@ -7871,8 +9240,12 @@
             " Herb Vigran",
             " Dave Madden"
         ],
-        "genres": "Animation,Family,Musical",
-        "decade": "1970"
+        "genres": [
+            "Animation",
+            "Family",
+            "Musical"
+        ],
+        "decade": 1970
     },
     {
         "title": "Gol Maal",
@@ -7891,8 +9264,11 @@
             " David Abraham",
             " Asrani"
         ],
-        "genres": "Comedy,Romance",
-        "decade": "1970"
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "decade": 1970
     },
     {
         "title": "Harold & Kumar Go to White Castle",
@@ -7902,7 +9278,7 @@
         "cast": [
             "John Cho",
             " Kal Penn",
-            " Paula Garc\u00e9s",
+            " Paula Garcés",
             " Neil Patrick Harris",
             " David Krumholtz",
             " Eddie Kaye Thomas",
@@ -7910,8 +9286,11 @@
             " Ryan Reynolds",
             " Fred Willard"
         ],
-        "genres": "Adventure,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Equilibrium",
@@ -7928,8 +9307,12 @@
             " Matthew Harbour",
             " William Fichtner"
         ],
-        "genres": "Action,Drama,Sci-Fi",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "decade": 2000
     },
     {
         "title": "Mumbai Matinee",
@@ -7945,8 +9328,11 @@
             " Asrani",
             " Shehzad Khan"
         ],
-        "genres": "Comedy,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Stranger",
@@ -7963,8 +9349,12 @@
             " Byron Keith",
             " Billy House"
         ],
-        "genres": "Crime,Drama,Film-Noir",
-        "decade": "1940"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Film-Noir"
+        ],
+        "decade": 1940
     },
     {
         "title": "City of God",
@@ -7983,8 +9373,11 @@
             " Jefechander Suplino",
             " Alice Braga"
         ],
-        "genres": "Crime,Drama",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Singapore",
@@ -8001,8 +9394,11 @@
             " Madan Puri",
             " Helen"
         ],
-        "genres": "Crime,Thriller",
-        "decade": "1960"
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "decade": 1960
     },
     {
         "title": "She's Gotta Have It",
@@ -8021,8 +9417,11 @@
             " Cheryl Burr",
             " Aaron Dugger"
         ],
-        "genres": "Comedy,Romance",
-        "decade": "1980"
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "decade": 1980
     },
     {
         "title": "G-Force",
@@ -8043,12 +9442,16 @@
             " Nicolas Cage",
             " Sam Rockwell",
             " Jon Favreau",
-            " Pen\u00e9lope Cruz",
+            " Penélope Cruz",
             " Steve Buscemi",
             " Tracy Morgan"
         ],
-        "genres": "Action,Adventure,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Time Machine",
@@ -8067,8 +9470,12 @@
             " Yancey Arias",
             " Orlando Jones"
         ],
-        "genres": "Action,Adventure,Sci-Fi",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "decade": 2000
     },
     {
         "title": "Power Rangers Ninja Storm",
@@ -8087,8 +9494,12 @@
             " Megan Nicol",
             " Bruce Hopkins"
         ],
-        "genres": "Action,Adventure,Sci-Fi",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "decade": 2000
     },
     {
         "title": "Young Tiger",
@@ -8102,8 +9513,11 @@
             " Hu Chin",
             " Nan Chiang"
         ],
-        "genres": "Action,Crime",
-        "decade": "1970"
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "decade": 1970
     },
     {
         "title": "Paris Is Burning",
@@ -8111,8 +9525,10 @@
             "Jennie Livingston"
         ],
         "cast": [],
-        "genres": "Documentary",
-        "decade": "1990"
+        "genres": [
+            "Documentary"
+        ],
+        "decade": 1990
     },
     {
         "title": "Lolita",
@@ -8130,8 +9546,12 @@
             " Lois Maxwell",
             " Cec Linder"
         ],
-        "genres": "Crime,Drama,Romance",
-        "decade": "1960"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1960
     },
     {
         "title": "Willy Wonka & the Chocolate Factory",
@@ -8150,8 +9570,12 @@
             " Paris Themmen",
             " Ursula Reit"
         ],
-        "genres": "Family,Fantasy,Musical",
-        "decade": "1970"
+        "genres": [
+            "Family",
+            "Fantasy",
+            "Musical"
+        ],
+        "decade": 1970
     },
     {
         "title": "New York Minute",
@@ -8173,8 +9597,12 @@
             " Bob Saget",
             " Jack Osbourne"
         ],
-        "genres": "Comedy,Crime,Family",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Family"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Blue Umbrella",
@@ -8191,8 +9619,12 @@
             " Piu Dutt",
             " Samrat Mukherjee"
         ],
-        "genres": "Comedy,Drama,Family",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "decade": 2000
     },
     {
         "title": "Perfect Stranger",
@@ -8211,8 +9643,12 @@
             " Gordon MacDonald",
             " Daniella Van Graas"
         ],
-        "genres": "Crime,Horror,Mystery",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Horror",
+            "Mystery"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Flying Guillotine",
@@ -8226,8 +9662,11 @@
             " Wu Chi Liu",
             " Yang Chiang"
         ],
-        "genres": "Action,Drama",
-        "decade": "1970"
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "decade": 1970
     },
     {
         "title": "Casino Tycoon",
@@ -8237,8 +9676,11 @@
         "cast": [
             "Wong Jing"
         ],
-        "genres": "Crime,Drama",
-        "decade": "1990"
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Panic Room",
@@ -8256,8 +9698,12 @@
             " Patrick Bauchau",
             " Paul Schulze"
         ],
-        "genres": "Crime,Drama,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Bazaar",
@@ -8273,8 +9719,11 @@
             " Rita Rani Kaul",
             " Malika"
         ],
-        "genres": "Drama,Family",
-        "decade": "1980"
+        "genres": [
+            "Drama",
+            "Family"
+        ],
+        "decade": 1980
     },
     {
         "title": "Encounter: The Killing",
@@ -8289,8 +9738,11 @@
             " Dilip Prabhavalkar",
             " Avtar Gill"
         ],
-        "genres": "Crime,Drama",
-        "decade": "2000"
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Igor",
@@ -8306,8 +9758,12 @@
             " Jennifer Coolidge",
             " Jay Leno"
         ],
-        "genres": "Animation,Comedy,Family",
-        "decade": "2000"
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "decade": 2000
     },
     {
         "title": "John & Jane",
@@ -8315,8 +9771,10 @@
             "Ashim Ahluwalia"
         ],
         "cast": [],
-        "genres": "Documentary",
-        "decade": "2000"
+        "genres": [
+            "Documentary"
+        ],
+        "decade": 2000
     },
     {
         "title": "Koshish",
@@ -8331,8 +9789,10 @@
             " Om Shivpuri",
             " Dina Pathak"
         ],
-        "genres": "Drama",
-        "decade": "1970"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1970
     },
     {
         "title": "Chup Chup Ke",
@@ -8350,8 +9810,12 @@
             " Rajpal Yadav",
             " Shakti Kapoor"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Indiana Jones and the Kingdom of the Crystal Skull",
@@ -8368,8 +9832,11 @@
             " Igor Jijikine",
             " Shia LaBeouf"
         ],
-        "genres": "Action,Adventure",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "decade": 2000
     },
     {
         "title": "Khubsoorat",
@@ -8387,8 +9854,12 @@
             " S.N. Banerjee",
             " Keshto Mukherjee"
         ],
-        "genres": "Comedy,Drama,Family",
-        "decade": "1980"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "decade": 1980
     },
     {
         "title": "White Christmas",
@@ -8406,8 +9877,12 @@
             " Anne Whitfield",
             " George Chakiris"
         ],
-        "genres": "Comedy,Musical,Romance",
-        "decade": "1950"
+        "genres": [
+            "Comedy",
+            "Musical",
+            "Romance"
+        ],
+        "decade": 1950
     },
     {
         "title": "Loving Annabelle",
@@ -8424,8 +9899,11 @@
             " Kevin McCarthy",
             " Markus Flanagan"
         ],
-        "genres": "Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Rocky III",
@@ -8443,8 +9921,11 @@
             " Hulk Hogan",
             " Ian Fried"
         ],
-        "genres": "Drama,Sport",
-        "decade": "1980"
+        "genres": [
+            "Drama",
+            "Sport"
+        ],
+        "decade": 1980
     },
     {
         "title": "Loving You",
@@ -8458,8 +9939,12 @@
             " Chung-wai Lee",
             " Ruby Wong"
         ],
-        "genres": "Action,Crime,Drama",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Shark Busters",
@@ -8478,8 +9963,10 @@
             " Fung Hak-On",
             " Jamie Luk"
         ],
-        "genres": "Drama",
-        "decade": "2000"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Fallen",
@@ -8497,8 +9984,12 @@
             " Michael J. Pagan",
             " Robert Joy"
         ],
-        "genres": "Action,Crime,Drama",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Superman Returns",
@@ -8517,8 +10008,11 @@
             " Marlon Brando",
             " Kal Penn"
         ],
-        "genres": "Action,Sci-Fi",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "decade": 2000
     },
     {
         "title": "How to Make an American Quilt",
@@ -8547,8 +10041,12 @@
             " Derrick O'Connor",
             " Jared Leto"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Austin Powers: The Spy Who Shagged Me",
@@ -8567,8 +10065,12 @@
             " Elizabeth Hurley",
             " Will Ferrell"
         ],
-        "genres": "Action,Adventure,Comedy",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 1990
     },
     {
         "title": "Ninja Turtles: The Next Mutation",
@@ -8591,8 +10093,12 @@
             " Larry Lam",
             " Geoff Wong"
         ],
-        "genres": "Action,Adventure,Comedy",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 1990
     },
     {
         "title": "Brother's Shadow",
@@ -8613,8 +10119,10 @@
             " Jerry Matz",
             " Lisa Emery"
         ],
-        "genres": "Drama",
-        "decade": "2000"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Junebug",
@@ -8635,8 +10143,11 @@
             " Jerry Minor",
             " Matt Besser"
         ],
-        "genres": "Comedy,Drama",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Quiet Victory: The Charlie Wedemeyer Story",
@@ -8651,8 +10162,10 @@
             " James Handy",
             " Kyle Chandler"
         ],
-        "genres": "Drama",
-        "decade": "1980"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "Gie",
@@ -8670,8 +10183,11 @@
             " Robby Tumewu",
             " Jonathan Mulia"
         ],
-        "genres": "Biography,Drama",
-        "decade": "2000"
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "Die Another Day",
@@ -8689,14 +10205,18 @@
             " Michael Madsen",
             " Will Yun Lee",
             " Kenneth Tsang",
-            " Emilio Echevarr\u00eda",
+            " Emilio Echevarría",
             " Mikhail Gorevoy",
             " Lawrence Makoare",
             " Colin Salmon",
             " Samantha Bond"
         ],
-        "genres": "Action,Adventure,Thriller",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "decade": 2000
     },
     {
         "title": "Phir Bhi Dil Hai Hindustani",
@@ -8714,8 +10234,12 @@
             " Shakti Kapoor",
             " Johnny Lever"
         ],
-        "genres": "Comedy,Drama,Musical",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Musical"
+        ],
+        "decade": 2000
     },
     {
         "title": "Rounders",
@@ -8734,8 +10258,11 @@
             " Josh Mostel",
             " Tom Aldredge"
         ],
-        "genres": "Crime,Drama",
-        "decade": "1990"
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Company",
@@ -8754,8 +10281,12 @@
             " Vijay Raaz",
             " Rajpal Yadav"
         ],
-        "genres": "Action,Crime,Drama",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Crying Game",
@@ -8774,8 +10305,12 @@
             " Andree Bernard",
             " Jim Broadbent"
         ],
-        "genres": "Crime,Drama,Romance",
-        "decade": "1990"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Wild Wild West",
@@ -8794,8 +10329,12 @@
             " Sofia Eng",
             " Bai Ling"
         ],
-        "genres": "Action,Comedy,Sci-Fi",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "decade": 1990
     },
     {
         "title": "Thunderbolt",
@@ -8807,8 +10346,12 @@
             "James Stewart",
             " Lloyd Bridges"
         ],
-        "genres": "Documentary,History,Short",
-        "decade": "1940"
+        "genres": [
+            "Documentary",
+            "History",
+            "Short"
+        ],
+        "decade": 1940
     },
     {
         "title": "Jis Desh Men Ganga Behti Hai",
@@ -8827,8 +10370,12 @@
             " Nayampally",
             " Sulochana Chatterjee"
         ],
-        "genres": "Drama,Musical,Romance",
-        "decade": "1960"
+        "genres": [
+            "Drama",
+            "Musical",
+            "Romance"
+        ],
+        "decade": 1960
     },
     {
         "title": "Eye for an Eye",
@@ -8847,8 +10394,12 @@
             " Keith David",
             " Philip Baker Hall"
         ],
-        "genres": "Crime,Drama,Thriller",
-        "decade": "1990"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "decade": 1990
     },
     {
         "title": "My Girl",
@@ -8867,8 +10418,12 @@
             " Jane Hallaren",
             " Anthony R. Jones"
         ],
-        "genres": "Comedy,Drama,Family",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "decade": 1990
     },
     {
         "title": "Kucch To Hai",
@@ -8882,8 +10437,11 @@
             " Jeetendra",
             " Rishi Kapoor"
         ],
-        "genres": "Horror,Mystery",
-        "decade": "2000"
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Crow",
@@ -8905,8 +10463,12 @@
             " Tony Todd",
             " Jon Polito"
         ],
-        "genres": "Action,Drama,Fantasy",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Drama",
+            "Fantasy"
+        ],
+        "decade": 1990
     },
     {
         "title": "Popeye",
@@ -8925,8 +10487,12 @@
             " Roberta Maxwell",
             " Donovan Scott"
         ],
-        "genres": "Adventure,Comedy,Family",
-        "decade": "1980"
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Family"
+        ],
+        "decade": 1980
     },
     {
         "title": "Head On",
@@ -8947,8 +10513,11 @@
             " Alex Papps",
             " Vassili Zappa"
         ],
-        "genres": "Drama,Romance",
-        "decade": "1990"
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "Power Rangers Time Force",
@@ -8967,8 +10536,12 @@
             " Terence J. Rotolo",
             " Eddie Frierson"
         ],
-        "genres": "Action,Adventure,Crime",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "decade": 2000
     },
     {
         "title": "The World Is Not Enough",
@@ -8986,8 +10559,12 @@
             " John Cleese",
             " Maria Grazia Cucinotta"
         ],
-        "genres": "Action,Adventure,Thriller",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "decade": 1990
     },
     {
         "title": "Benji's Very Own Christmas Story",
@@ -8999,8 +10576,11 @@
             " Patsy Garrett",
             " Cynthia Smith"
         ],
-        "genres": "Family,Short",
-        "decade": "1970"
+        "genres": [
+            "Family",
+            "Short"
+        ],
+        "decade": 1970
     },
     {
         "title": "Jodhaa Akbar",
@@ -9018,8 +10598,12 @@
             " Kulbhushan Kharbanda",
             " Abeer Abrar"
         ],
-        "genres": "Action,Drama,History",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Drama",
+            "History"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Flintstones in Viva Rock Vegas",
@@ -9035,8 +10619,12 @@
             " Thomas Gibson",
             " Alan Cumming"
         ],
-        "genres": "Comedy,Family,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Family",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Ram Jaane",
@@ -9055,8 +10643,12 @@
             " Amrit Pal",
             " Arun Bali"
         ],
-        "genres": "Action,Crime,Drama",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "How the Grinch Stole Christmas",
@@ -9075,8 +10667,12 @@
             " Mindy Sterling",
             " Anthony Hopkins"
         ],
-        "genres": "Comedy,Family,Fantasy",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Dil Chahta Hai",
@@ -9095,8 +10691,12 @@
             " Suhasini Mulay",
             " Ahmed Khan"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Jaane Tu... Ya Jaane Na",
@@ -9116,8 +10716,12 @@
             " Prateik Babbar",
             " Ratna Pathak Shah"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Krishna Cottage",
@@ -9130,8 +10734,11 @@
             " Natasha",
             " Rati Agnihotri"
         ],
-        "genres": "Horror,Mystery",
-        "decade": "2000"
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "decade": 2000
     },
     {
         "title": "English Babu Desi Mem",
@@ -9149,8 +10756,12 @@
             " Sunny Singh",
             " Gulshan Bawra"
         ],
-        "genres": "Comedy,Drama,Musical",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Musical"
+        ],
+        "decade": 1990
     },
     {
         "title": "American History X",
@@ -9170,8 +10781,10 @@
             " William Russ",
             " Guy Torry"
         ],
-        "genres": "Drama",
-        "decade": "1990"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Tomorrow Never Dies",
@@ -9186,12 +10799,16 @@
             " Joe Don Baker",
             " Judi Dench",
             " Ricky Jay",
-            " G\u00f6tz Otto",
+            " Götz Otto",
             " Desmond Llewelyn",
             " Vincent Schiavelli"
         ],
-        "genres": "Action,Adventure,Thriller",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "decade": 1990
     },
     {
         "title": "Mean Streets",
@@ -9208,8 +10825,12 @@
             " Victor Argo",
             " George Memmoli"
         ],
-        "genres": "Crime,Drama,Thriller",
-        "decade": "1970"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "decade": 1970
     },
     {
         "title": "Penelope",
@@ -9223,8 +10844,12 @@
             " Peter Dinklage",
             " Simon Woods"
         ],
-        "genres": "Comedy,Fantasy,Romance",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Ramji Londonwaley",
@@ -9240,8 +10865,12 @@
             " Satish Shah",
             " Akhilendra Mishra"
         ],
-        "genres": "Comedy,Drama,Family",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "decade": 2000
     },
     {
         "title": "Sangam",
@@ -9258,8 +10887,12 @@
             " Raj Mehra",
             " Iftekhar"
         ],
-        "genres": "Drama,Musical,Romance",
-        "decade": "1960"
+        "genres": [
+            "Drama",
+            "Musical",
+            "Romance"
+        ],
+        "decade": 1960
     },
     {
         "title": "Pulp Fiction",
@@ -9280,8 +10913,11 @@
             " Christopher Walken",
             " Bruce Willis"
         ],
-        "genres": "Crime,Drama",
-        "decade": "1990"
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Gift",
@@ -9303,8 +10939,12 @@
             " Chelcie Ross",
             " John Beasley"
         ],
-        "genres": "Drama,Fantasy,Horror",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Horror"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Mad Monk",
@@ -9319,8 +10959,11 @@
             " Ng Man-Tat",
             " Anita Mui"
         ],
-        "genres": "Comedy,Fantasy",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "decade": 1990
     },
     {
         "title": "Rocky II",
@@ -9339,8 +10982,11 @@
             " John Pleshette",
             " Sylvia Meals"
         ],
-        "genres": "Drama,Sport",
-        "decade": "1970"
+        "genres": [
+            "Drama",
+            "Sport"
+        ],
+        "decade": 1970
     },
     {
         "title": "Men in Black",
@@ -9357,10 +11003,14 @@
             " Siobhan Fallon Hogan",
             " Mike Nussbaum",
             " Jon Gries",
-            " Sergio Calder\u00f3n"
+            " Sergio Calderón"
         ],
-        "genres": "Action,Adventure,Comedy",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Rainmaker",
@@ -9379,8 +11029,12 @@
             " Mickey Rourke",
             " Andrew Shue"
         ],
-        "genres": "Crime,Drama,Thriller",
-        "decade": "1990"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "decade": 1990
     },
     {
         "title": "Da Kath & Kim Code",
@@ -9394,8 +11048,10 @@
             " Peter Rowsthorn",
             " Magda Szubanski"
         ],
-        "genres": "Comedy",
-        "decade": "2000"
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Chasing Amy",
@@ -9410,8 +11066,12 @@
             " Jason Mewes",
             " Kevin Smith"
         ],
-        "genres": "Comedy,Drama,Romance",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1990
     },
     {
         "title": "The Lord of the Rings: The Two Towers",
@@ -9432,8 +11092,12 @@
             " Dominic Monaghan",
             " Orlando Bloom"
         ],
-        "genres": "Adventure,Drama,Fantasy",
-        "decade": "2000"
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "decade": 2000
     },
     {
         "title": "Becoming Jane",
@@ -9449,8 +11113,12 @@
             " Laurence Fox",
             " Ian Richardson"
         ],
-        "genres": "Biography,Drama,Romance",
-        "decade": "2000"
+        "genres": [
+            "Biography",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 2000
     },
     {
         "title": "Strange Voices",
@@ -9464,8 +11132,10 @@
             " Tricia Leigh Fisher",
             " Millie Perkins"
         ],
-        "genres": "Drama",
-        "decade": "1980"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "The Evil Dead",
@@ -9485,8 +11155,10 @@
             " John Cameron",
             " Ted Raimi"
         ],
-        "genres": "Horror",
-        "decade": "1980"
+        "genres": [
+            "Horror"
+        ],
+        "decade": 1980
     },
     {
         "title": "Small Soldiers",
@@ -9504,8 +11176,12 @@
             " Tommy Lee Jones",
             " Ernest Borgnine"
         ],
-        "genres": "Action,Adventure,Comedy",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 1990
     },
     {
         "title": "Balto",
@@ -9522,8 +11198,12 @@
             " Danny Mann",
             " Robbie Rist"
         ],
-        "genres": "Adventure,Animation,Drama",
-        "decade": "1990"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Tremors",
@@ -9544,8 +11224,11 @@
             " Victor Wong",
             " Bibi Besch"
         ],
-        "genres": "Comedy,Horror",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "decade": 1990
     },
     {
         "title": "Justice, My Foot!",
@@ -9564,8 +11247,12 @@
             " Eddy Ko",
             " Chi Ming Lau"
         ],
-        "genres": "Action,Comedy,Drama",
-        "decade": "1990"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Kiss the Girls",
@@ -9582,8 +11269,12 @@
             " Bill Nunn",
             " Brian Cox"
         ],
-        "genres": "Crime,Drama,Mystery",
-        "decade": "1990"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "decade": 1990
     },
     {
         "title": "Maza Pati Karodpati",
@@ -9601,8 +11292,10 @@
             " Nilu Phule",
             " Shubha Khote"
         ],
-        "genres": "Drama",
-        "decade": "1980"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1980
     },
     {
         "title": "Spider-Man 3",
@@ -9625,8 +11318,12 @@
             " Bruce Campbell",
             " Elizabeth Banks"
         ],
-        "genres": "Action,Adventure,Sci-Fi",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "decade": 2000
     },
     {
         "title": "Rugrats in Paris: The Movie",
@@ -9650,8 +11347,12 @@
             " Susan Sarandon",
             " John Lithgow"
         ],
-        "genres": "Adventure,Animation,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Croods",
@@ -9669,8 +11370,12 @@
             " Chris Sanders",
             " Randy Thom"
         ],
-        "genres": "Action,Adventure,Animation",
-        "decade": "2010"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "decade": 2010
     },
     {
         "title": "Kyaa Kool Hai Hum",
@@ -9685,8 +11390,11 @@
             " Anupam Kher",
             " Jay Sean"
         ],
-        "genres": "Comedy,Mystery",
-        "decade": "2000"
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "decade": 2000
     },
     {
         "title": "Sling Blade",
@@ -9705,8 +11413,10 @@
             " Rick Dial",
             " Brent Briscoe"
         ],
-        "genres": "Drama",
-        "decade": "1990"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1990
     },
     {
         "title": "Charlie's Angels",
@@ -9727,8 +11437,12 @@
             " Tom Green",
             " Luke Wilson"
         ],
-        "genres": "Action,Adventure,Comedy",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 2000
     },
     {
         "title": "BASEketball",
@@ -9745,8 +11459,11 @@
             " Robert Vaughn",
             " Trevor Einhorn"
         ],
-        "genres": "Comedy,Sport",
-        "decade": "1990"
+        "genres": [
+            "Comedy",
+            "Sport"
+        ],
+        "decade": 1990
     },
     {
         "title": "Inglourious Basterds",
@@ -9755,12 +11472,12 @@
         ],
         "cast": [
             "Brad Pitt",
-            " M\u00e9lanie Laurent",
+            " Mélanie Laurent",
             " Christoph Waltz",
             " Eli Roth",
             " Michael Fassbender",
             " Diane Kruger",
-            " Daniel Br\u00fchl",
+            " Daniel Brühl",
             " Til Schweiger",
             " Gedeon Burkhard",
             " Jacky Ido",
@@ -9768,8 +11485,12 @@
             " Sylvester Groth",
             " Martin Wuttke"
         ],
-        "genres": "Adventure,Drama,War",
-        "decade": "2000"
+        "genres": [
+            "Adventure",
+            "Drama",
+            "War"
+        ],
+        "decade": 2000
     },
     {
         "title": "Jackie Brown",
@@ -9790,8 +11511,12 @@
             " Hattie Winston",
             " Sid Haig"
         ],
-        "genres": "Crime,Drama,Thriller",
-        "decade": "1990"
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "decade": 1990
     },
     {
         "title": "Sohni Mahiwal",
@@ -9805,31 +11530,37 @@
             " Tanuja",
             " Poonam Dhillon"
         ],
-        "genres": "Action,Drama,Romance",
-        "decade": "1980"
+        "genres": [
+            "Action",
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1980
     },
     {
-        "title": "Y Tu Mam\u00e1 Tambi\u00e9n",
+        "title": "Y Tu Mamá También",
         "directors": [
-            "Alfonso Cuar\u00f3n"
+            "Alfonso Cuarón"
         ],
         "cast": [
-            "Maribel Verd\u00fa",
-            " Gael Garc\u00eda Bernal",
+            "Maribel Verdú",
+            " Gael García Bernal",
             " Diego Luna",
-            " Daniel Gim\u00e9nez Cacho",
-            " Ana L\u00f3pez Mercado",
+            " Daniel Giménez Cacho",
+            " Ana López Mercado",
             " Nathan Grinberg",
-            " Ver\u00f3nica Langer",
-            " Mar\u00eda Aura",
+            " Verónica Langer",
+            " María Aura",
             " Giselle Audirac",
-            " Arturo R\u00edos",
-            " Andr\u00e9s Almeida",
+            " Arturo Ríos",
+            " Andrés Almeida",
             " Diana Bracho",
-            " Emilio Echevarr\u00eda"
+            " Emilio Echevarría"
         ],
-        "genres": "Drama",
-        "decade": "2000"
+        "genres": [
+            "Drama"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Tuxedo",
@@ -9847,8 +11578,12 @@
             " Romany Malco",
             " Daniel Kash"
         ],
-        "genres": "Action,Comedy,Sci-Fi",
-        "decade": "2000"
+        "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "decade": 2000
     },
     {
         "title": "Prince",
@@ -9867,8 +11602,11 @@
             " Sunder",
             " Rashid Khan"
         ],
-        "genres": "Musical,Romance",
-        "decade": "1960"
+        "genres": [
+            "Musical",
+            "Romance"
+        ],
+        "decade": 1960
     },
     {
         "title": "Pan's Labyrinth",
@@ -9877,18 +11615,22 @@
         ],
         "cast": [
             "Ivana Baquero",
-            " Sergi L\u00f3pez",
-            " Maribel Verd\u00fa",
+            " Sergi López",
+            " Maribel Verdú",
             " Doug Jones",
             " Ariadna Gil",
-            " \u00c1lex Angulo",
+            " Álex Angulo",
             " Manolo Solo",
-            " C\u00e9sar Vea",
+            " César Vea",
             " Roger Casamajor",
             " Sergi Lopez"
         ],
-        "genres": "Drama,Fantasy,War",
-        "decade": "2000"
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "War"
+        ],
+        "decade": 2000
     },
     {
         "title": "The Great Gambler",
@@ -9907,7 +11649,11 @@
             " Sujit Kumar",
             " Roopesh Kumar"
         ],
-        "genres": "Action,Crime,Romance",
-        "decade": "1970"
+        "genres": [
+            "Action",
+            "Crime",
+            "Romance"
+        ],
+        "decade": 1970
     }
 ]

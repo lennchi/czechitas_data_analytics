@@ -29,14 +29,16 @@ df = df[["title", "directors", "cast", "genres", "decade"]]
 # Convert strings for directors/cast into lists
 df["directors"] = df["directors"].str.split(",")
 df["cast"] = df["cast"].str.split(",")
+df["genres"] = df["genres"].str.split(",")
 
 # Convert df rows into dicts
 movies = [row.to_dict() for i, row in df.iterrows()]
 
-# Change years to decades
+# Change years to decades and cast to int
 for movie in movies:
     year_str = str(movie["decade"])
-    movie["decade"] = year_str[:-1] + "0"
+    movie["decade"] = int(year_str[:-1] + "0")
+    # print(type(movie["decade"]))
 
 # Replace [""] with [] for directors/cast
 movies = [
@@ -46,4 +48,4 @@ movies = [
 
 # Write to a new .json file
 with open("PY_homework/movies.json", "w", encoding="utf-8") as f:
-    json.dump(movies, f, indent=4)
+    json.dump(movies, f, ensure_ascii=False, indent=4)
