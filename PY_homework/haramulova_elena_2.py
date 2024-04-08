@@ -27,9 +27,9 @@ df = df.rename(columns=new_headers)
 df = df[["title", "directors", "cast", "genres", "decade"]]
 
 # Convert strings for directors/cast into lists
-df["directors"] = df["directors"].str.split(",")
-df["cast"] = df["cast"].str.split(",")
-df["genres"] = df["genres"].str.split(",")
+df["directors"] = df["directors"].str.split(", ")
+df["cast"] = df["cast"].str.split(", ")
+df["genres"] = df["genres"].str.split(", ")
 
 # Convert df rows into dicts
 movies = [row.to_dict() for i, row in df.iterrows()]
