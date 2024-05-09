@@ -1,0 +1,36 @@
+Zadání
+
+V nepovinném úkolu budeme pracovat s tabulkami NETFLIX_TITLES2 a IMDB_TITLES2, navíc budeme pracovat ještě s tabulkou IMDB_RATINGS2, kde jsou uložená hodnocení k titulům IMDB.
+
+Jsou to následující tabulky:
+
+SELECT * FROM SCH_CZECHITA.NETFLIX_TITLES2;
+
+SELECT * FROM SCH_CZECHITA.IMDB_TITLES2;
+
+SELECT * FROM SCH_CZECHITA.IMDB_RATINGS2;
+
+Tvým úkolem je spojit všechny tři tabulky pomoci INNER JOIN (chceme jen ty tituly, které mají všechny tři datasety společné). Spojení tabulek proveď následujícím postupem:
+
+
+1. Nejdříve spoj IMDB_TITLES2 & IMDB_RATINGS2 (INNER JOIN) pomocí id (IMDB_TITLES2.TCONST = IMDB_RATINGS2.TCONST) do pomocné dočasné tabulky (CREATE TEMPORARY TABLE).
+
+2. Pro napojení na Netflix potřebujeme vytvořit nový sloupeček, který upraví hodnoty ze sloupce TITLETYPE tak, abychom hodnoty mohly napojit na sloupeček TYPE z NETFLIX_TITLES2.
+
+    --> Vytvoř v další pomocné tabulce (CREATE TEMPORARY TABLE) nový sloupeček TITLETYPE_NEW pomocí CASE WHEN.
+
+  --> V novém sloupečku bude hodnota 'Movie' pro hodnoty TITLETYPE 'movie', 'short', 'tvMovie', 'tvShort' a hodnota 'TV Show' pro hodnoty TITLETYPE 'tvSeries', 'tvMiniSeries'.
+
+3. Pomocnou tabulku s napojenými IMDB datasety a sloupečkem TITLETYPE a napojte pomocí INNER JOIN na NETFLIX_TITLES2 pomocí názvu, roku vydání a typu titulu a uložte do finální tabulky NETFLIX_IMDB (CREATE TABLE) 
+
+    --> Nezapomeň na nastavení svého schématu, abys mohla vytvářet tabulky.
+
+    --> Zachovej všechny sloupce z IMDB_TITLES2, pouze sloupce AVERAGERATING a NUMVOTES z tabulky IMDB_RATINGS2 a všechny sloupce z tabulky NETFLIX_TITLES2
+
+        (IMDB_TITLES2.PRIMARYTITLE = NETFLIX_TITLES2.TITLE 
+
+        AND IMDB_TITLES2.STARTYEAR = NETFLIX_TITLES2.RELEASE_YEAR
+
+        AND IMDB_TITLES2.TITLETYPE_NEW = NETFLIX_TITLES2.TYPE)
+
+4. Kolik je ve výsledku duplicit? (GROUP BY & HAVING). (Duplicity posuzujte tak, ze se neopakuje SHOW_ID (id Netflix datasetu)). Úkolem není duplicity smazat! Pouze napište dotaz, který vás k duplicitám dovede a napište, kolik jich tam vidíte.
